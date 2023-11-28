@@ -10,13 +10,13 @@ I’m always open to new challenges and opportunities, so feel free to contact m
 &nbsp;&nbsp;&nbsp;
 ![My GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rliberoff&layout=compact&show_icons=true&theme=gotham)
 
-## License
+##### License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 <hr>
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring some of my repositories!
 
 </div>
