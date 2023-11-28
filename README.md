@@ -4,7 +4,7 @@ Hi, I’m a Computer Engineer with 20+ years of experience in designing, develop
 
 I’m always open to new challenges and opportunities, so feel free to contact me if you want to collaborate or just talk. You can always find me here 👉🏻
 
-### ✍🏻 Latest blog posts
+### ✍🏻 Latest blog posts (in Spanish 🇪🇸)
 
 <!-- BLOGPOSTS:START -->
 - [Estaré en la Netcoreconf 2023 de Madrid](https://codertectura.com//posts/nos-vemos-en-la-net-core-conf-2023-madrid)
