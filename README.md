@@ -4,7 +4,7 @@ Hi, I’m a Computer Engineer with 20+ years of experience in designing, develop
 
 I’m always open to new challenges and opportunities, so feel free to contact me if you want to collaborate or just talk. You can always find me here 👉🏻
 
-### My current GitHub statistics
+### 📐 My current GitHub statistics
 
 ![My GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rliberoff&show_icons=true&theme=gotham)
 
