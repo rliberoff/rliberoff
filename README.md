@@ -4,6 +4,11 @@ Hi, I’m a Computer Engineer with 20+ years of experience in designing, develop
 
 I’m always open to new challenges and opportunities, so feel free to contact me if you want to collaborate or just talk. You can always find me here 👉🏻
 
+### ✍🏻 Latest blog posts
+
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
+
 ### 📐 My current GitHub statistics
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rliberoff&rank_icon=github&show_icons=true&theme=gotham)
