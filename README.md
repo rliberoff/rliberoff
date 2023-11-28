@@ -12,5 +12,7 @@ I’m always open to new challenges and opportunities, so feel free to contact m
 
 <hr>
 <div align="center">
-    ### Show some ❤️ by starring some of the repositories!
+
+### Show some ❤️ by starring some of the repositories!
+
 </div>
