@@ -10,6 +10,10 @@ I’m always open to new challenges and opportunities, so feel free to contact m
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rliberoff&show_icons=true&theme=gotham)
 
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 <hr>
 <div align="center">
 
