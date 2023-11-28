@@ -9,3 +9,8 @@ I’m always open to new challenges and opportunities, so feel free to contact m
 ![My GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rliberoff&show_icons=true&theme=gotham)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rliberoff&show_icons=true&theme=gotham)
+
+<hr>
+<div align="center">
+    ### Show some ❤️ by starring some of the repositories!
+</div>
