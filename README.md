@@ -6,7 +6,7 @@ I’m always open to new challenges and opportunities, so feel free to contact m
 
 ### 📐 My current GitHub statistics
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rliberoff&show_icons=true&theme=gotham)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rliberoff&rank_icon=github&show_icons=true&theme=gotham)
 &nbsp;&nbsp;&nbsp;
 ![My GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rliberoff&layout=compact&show_icons=true&theme=gotham)
 
