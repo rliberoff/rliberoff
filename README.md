@@ -1,9 +1,5 @@
 # Hi there! I'm Rodrigo Liberoff 👋🏻👨🏻‍💻
 
-I'm a Computer Engineer professional with more than 20 years of hands-on experience. I'm passionate with the design, conceptualization and development of software systems and applications — mainly with the C# programming language — creating the best software architectures and researching new technologies and their positive impact on clients and companies, focusing mainly on Microsoft technologies, specially the .NET platform (currently with .NET 6, 7 and 8) and using Agile Methodologies (like Scrum, SAFe).
+Hi, I’m a Computer Engineer with 20+ years of experience in designing, developing, and delivering software systems and applications. I’m passionate about creating the best software architectures and researching new technologies and their positive impact in the communite and on clients and their companies. I mainly work with Microsoft technologies, especially the .NET platform (currently with .NET 6, 7 and 8) and C# programming language, using Agile Methodologies (like Scrum, SAFe).
 
-Let's connect 👉🏻
-<p align="left">
-  <a href="https://twitter.com/rliberoff" target="_blank"><img src="https://img.shields.io/twitter/follow/rliberoff?label=%40rliberoff" alt="X (formerly Twitter) Follow" /></a>
-   <a href="https://example.com" target="_blank">demo</a>
-</p>
+I’m always open to new challenges and opportunities, so feel free to contact me if you want to collaborate or just talk. You can always find me here 👉🏻
