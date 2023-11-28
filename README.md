@@ -1,4 +1,4 @@
-# Hi there! I'm Rodrigo Liberoff 👋🏻👨🏻‍💻
+# 👋🏻👨🏻‍💻 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2800&pause=100000&color=719B79&multiline=true&random=false&width=920&height=75&lines=Hi+there!+I'm+Rodrigo+Liberoff)](https://git.io/typing-svg)
 
 Hi, I’m a Computer Engineer with 20+ years of experience in designing, developing, and delivering software systems and applications. I’m passionate about creating the best software architectures and researching new technologies and their positive impact in the communite and on clients and their companies. I mainly work with Microsoft technologies, especially the .NET platform (currently with .NET 6, 7 and 8) and C# programming language, using Agile Methodologies (like Scrum, SAFe).
 
