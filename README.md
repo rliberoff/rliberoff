@@ -6,6 +6,10 @@ I’m passionate about creating the best software architectures and researching 
 
 I’m always open to new challenges and opportunities, so feel free to contact me if you want to collaborate or just talk. You can always find me here 👉🏻
 
+### 📺 Latest YouTube videos (in Spanish 🇪🇸)
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
 ### ✍🏻 Latest blog posts (in Spanish 🇪🇸)
 
 <!-- BLOGPOSTS:START -->
