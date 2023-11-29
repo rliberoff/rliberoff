@@ -23,6 +23,7 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCPoMaG_tXHGR-g-pJ270hng
+          max_videos: 3
       
       - name: Commit file changes
         run: |
