@@ -1,8 +1,8 @@
-name: Blog post workflow
+name: Update Content
 on:
   schedule:
     # Runs every day at 00:00
-    - cron: '0 0 * * *'
+    - cron: '* * * * *'
 
 permissions:
   contents: write
@@ -19,6 +19,10 @@ jobs:
         with:
           feed_url: https://codertectura.com/atom.xml
           count: 3 # default 5
+
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UCPoMaG_tXHGR-g-pJ270hng
       
       - name: Commit file changes
         run: |
