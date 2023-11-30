@@ -42,14 +42,20 @@ sessionize #1AB394
 
 <p float="left">
 
+<img height="32" width="32" src="https://cdn.simpleicons.org/dapr/5391FE" />&nbsp;
 
 
+<img height="32" width="32" src="https://cdn.simpleicons.org/googlechrome/4285F4" />&nbsp;
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/azuredevops/0078D7" />&nbsp;
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftedge/0078D7" />&nbsp;
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftazure/0078D4" />&nbsp;
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/nuget/004880" />&nbsp;
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/powershell/5391FE" />&nbsp;
 
 
   
