@@ -2,7 +2,7 @@ name: Update Content
 on:
   schedule:
     # Runs every day at 00:00
-    - cron: '* * * * *'
+    - cron: '0 0 * * *'
 
 permissions:
   contents: write
