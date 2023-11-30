@@ -11,6 +11,31 @@ You can always find me here 👉🏻
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rliberoff/)&nbsp;
 [![X (formerly Twitter) URL](https://img.shields.io/badge/follow_me-000?style=for-the-badge&logo=X)](https://twitter.com/rliberoff)
 
+#### My Languages
+
+<p float="left">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/#512BD4" />&nbsp;
+  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />&nbsp;
+  <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/#3178C6" />&nbsp;
+  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26" />&nbsp;
+
+
+  
+</p>
+
+#### My Technologies & Tools
+
+<p float="left">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/npm/#CB3837" />&nbsp;
+  <img height="32" width="32" src="https://cdn.simpleicons.org/git/#F05032" />&nbsp;
+  <img height="32" width="32" src="https://cdn.simpleicons.org/brave/#FB542B" />&nbsp;
+  <img height="32" width="32" src="https://cdn.simpleicons.org/firefox/#FF7139" />&nbsp;
+
+
+
+  
+</p>
+
 ### ✍🏻 Latest blog posts
 
 <!-- BLOGPOSTS:START -->
