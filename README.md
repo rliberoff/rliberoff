@@ -4,11 +4,12 @@
 
 I’m passionate about creating the best software architectures and researching new technologies and their positive impact in the communite and on clients and their companies. I mainly work with Microsoft technologies, especially the .NET platform (currently with .NET 6, 7 and 8) and C# programming language, using Agile Methodologies (like Scrum, SAFe).
 
-I’m always open to new challenges and opportunities, so feel free to contact me if you want to collaborate or just talk. You can always find me here 👉🏻
+I’m always open to new challenges and opportunities, so feel free to contact me if you want to collaborate or just talk. 
 
-[![X (formerly Twitter) Follow](https://img.shields.io/badge/-X-000?style=for-the-badge&logo=X&logoColor=white)](https://www.twitter.com/rliberoff)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rliberoff/)
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Frliberoff&style=for-the-badge&logo=x&labelColor=000&color=000)
+You can always find me here 👉🏻
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rliberoff/)&nbsp;
+[![X (formerly Twitter) URL](https://img.shields.io/badge/follow_me-000?style=for-the-badge&logo=X)](https://twitter.com/rliberoff)
 
 ### ✍🏻 Latest blog posts
 
