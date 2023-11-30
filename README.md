@@ -11,6 +11,8 @@ You can always find me here 👉🏻
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rliberoff/)&nbsp;
 [![X (formerly Twitter) URL](https://img.shields.io/badge/follow_me-000?style=for-the-badge&logo=X)](https://twitter.com/rliberoff)
 
+sessionize #1AB394
+
 #### My Languages
 
 <p float="left">
@@ -20,6 +22,8 @@ You can always find me here 👉🏻
   <img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26" />&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/uml/FABD14" />&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/dotenv/ECD53F" />&nbsp;
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3/1572B6" />&nbsp;
 
 
 
@@ -40,9 +44,24 @@ You can always find me here 👉🏻
   <img height="32" width="32" src="https://cdn.simpleicons.org/postman/FF6C37" />&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/jupyter/F37626" />&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/prettier/F7B93E" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/swagger/85EA2D" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/openapiinitiative/6BA539" />&nbsp;
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/339933" />&nbsp;
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/notepadplusplus/90E59A" />&nbsp;
+
 
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/scpfoundation/000000/FFFFFF" />&nbsp;
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/startrek/FFE200" />&nbsp;
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/pexels/05A081" />&nbsp;
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/canva/00C4CC" />&nbsp;
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" />&nbsp;
 
 
   
