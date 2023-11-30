@@ -14,11 +14,18 @@ You can always find me here 👉🏻
 #### My Languages
 
 <p float="left">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/#512BD4" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/#3178C6" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26" />&nbsp;
+  <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/512BD4" />&nbsp;
+  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" />&nbsp;
+  <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/3178C6" />&nbsp;
+  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/uml/FABD14" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/dotenv/ECD53F" />&nbsp;
 
+
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/linux/FCC624" />&nbsp;
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/linux/FCC624" />&nbsp;
 
   
 </p>
@@ -26,11 +33,16 @@ You can always find me here 👉🏻
 #### My Technologies & Tools
 
 <p float="left">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/npm/#CB3837" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/git/#F05032" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/brave/#FB542B" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/firefox/#FF7139" />&nbsp;
+  <img height="32" width="32" src="https://cdn.simpleicons.org/npm/CB3837" />&nbsp;
+  <img height="32" width="32" src="https://cdn.simpleicons.org/git/F05032" />&nbsp;
+  <img height="32" width="32" src="https://cdn.simpleicons.org/brave/FB542B" />&nbsp;
+  <img height="32" width="32" src="https://cdn.simpleicons.org/firefox/FF7139" />&nbsp;
+  <img height="32" width="32" src="https://cdn.simpleicons.org/postman/FF6C37" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/jupyter/F37626" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/prettier/F7B93E" />&nbsp;
 
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/scpfoundation/000000/FFFFFF" />&nbsp;
 
 
   
