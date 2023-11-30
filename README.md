@@ -6,7 +6,7 @@ I’m passionate about creating the best software architectures and researching 
 
 I’m always open to new challenges and opportunities, so feel free to contact me if you want to collaborate or just talk. You can always find me here 👉🏻
 
-### ✍🏻 Latest blog posts (in Spanish 🇪🇸)
+### ✍🏻 Latest blog posts
 
 <!-- BLOGPOSTS:START -->
 - [Estaré en la Netcoreconf 2023 de Madrid](https://codertectura.com//posts/nos-vemos-en-la-net-core-conf-2023-madrid)
@@ -14,7 +14,7 @@ I’m always open to new challenges and opportunities, so feel free to contact m
 - [Integrando otros LLMs con Semantic Kernel](https://codertectura.com//posts/integrando-otros-llms-con-semantic-kernel)
 <!-- BLOGPOSTS:END -->
 
-### 📺 Latest YouTube videos (in Spanish 🇪🇸)
+### 📺 Latest videos
 <!-- BEGIN YOUTUBE-CARDS -->
 [![⚙️ Desplegando OpeanAI y sus modelos en Azure con Infraestructura como Código 🦾](https://ytcards.demolab.com/?id=QVcGvtJ3vRc&title=%E2%9A%99%EF%B8%8F+Desplegando+OpeanAI+y+sus+modelos+en+Azure+con+Infraestructura+como+C%C3%B3digo+%F0%9F%A6%BE&lang=en&timestamp=1695049230&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "⚙️ Desplegando OpeanAI y sus modelos en Azure con Infraestructura como Código 🦾")](https://www.youtube.com/watch?v=QVcGvtJ3vRc)
 [![💥🫵🏻 FUNCIONES NATIVAS en SEMANTIC KERNEL, y TODO lo que necesitas para implementarlas‼️](https://ytcards.demolab.com/?id=mSJa0oaS_XE&title=%F0%9F%92%A5%F0%9F%AB%B5%F0%9F%8F%BB+FUNCIONES+NATIVAS+en+SEMANTIC+KERNEL%2C+y+TODO+lo+que+necesitas+para+implementarlas%E2%80%BC%EF%B8%8F&lang=en&timestamp=1689260435&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "💥🫵🏻 FUNCIONES NATIVAS en SEMANTIC KERNEL, y TODO lo que necesitas para implementarlas‼️")](https://www.youtube.com/watch?v=mSJa0oaS_XE)
