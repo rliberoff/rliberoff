@@ -25,7 +25,6 @@ jobs:
           channel_id: UCPoMaG_tXHGR-g-pJ270hng
           max_videos: 3
           max_title_lines: 2
-          card_width: 200
       
       - name: Commit file changes
         run: |
