@@ -1,10 +1,14 @@
 # 👋🏻👨🏻‍💻 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=70&duration=2800&pause=10000&color=719B79&multiline=true&random=false&width=920&height=85&lines=Hi+there!+I'm+Rodrigo+Liberoff)](https://git.io/typing-svg)
 
-Hi, I’m a Computer Engineer with 20+ years of experience in designing, developing, and delivering software systems and applications.
+##### I’m a Computer Engineer with 20+ years of experience in designing, developing, and delivering software systems and applications.
 
 I’m passionate about creating the best software architectures and researching new technologies and their positive impact in the communite and on clients and their companies. I mainly work with Microsoft technologies, especially the .NET platform (currently with .NET 6, 7 and 8) and C# programming language, using Agile Methodologies (like Scrum, SAFe).
 
 I’m always open to new challenges and opportunities, so feel free to contact me if you want to collaborate or just talk. You can always find me here 👉🏻
+
+[![X (formerly Twitter) Follow](https://img.shields.io/badge/-X-000?style=for-the-badge&logo=X&logoColor=white)](https://www.twitter.com/rliberoff)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rliberoff/)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Frliberoff&style=for-the-badge&logo=x&labelColor=000&color=000)
 
 ### ✍🏻 Latest blog posts
 
@@ -13,6 +17,9 @@ I’m always open to new challenges and opportunities, so feel free to contact m
 - [Nos vemos en los Microsoft 365 Live 2023](https://codertectura.com//posts/nos-vemos-en-microsoft-365-live-2023)
 - [Integrando otros LLMs con Semantic Kernel](https://codertectura.com//posts/integrando-otros-llms-con-semantic-kernel)
 <!-- BLOGPOSTS:END -->
+
+&nbsp;&nbsp;&nbsp;<img height="16" src="https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white" />
+
 
 ### 📺 Latest videos
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -26,6 +33,8 @@ I’m always open to new challenges and opportunities, so feel free to contact m
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rliberoff&rank_icon=github&show_icons=true&theme=gotham)
 &nbsp;&nbsp;&nbsp;
 ![My GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rliberoff&layout=compact&show_icons=true&theme=gotham)
+
+
 
 ###### License
 
