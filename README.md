@@ -25,11 +25,15 @@ sessionize #1AB394
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/css3/1572B6" />&nbsp;
 
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/3776AB" />&nbsp;
+
 
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/linux/FCC624" />&nbsp;
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/linux/FCC624" />&nbsp;
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/windows/0078D4" />&nbsp;
 
   
 </p>
@@ -37,6 +41,18 @@ sessionize #1AB394
 #### My Technologies & Tools
 
 <p float="left">
+
+
+
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/microsoftedge/0078D7" />&nbsp;
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/microsoftazure/0078D4" />&nbsp;
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/nuget/004880" />&nbsp;
+
+
+  
   <img height="32" width="32" src="https://cdn.simpleicons.org/npm/CB3837" />&nbsp;
   <img height="32" width="32" src="https://cdn.simpleicons.org/git/F05032" />&nbsp;
   <img height="32" width="32" src="https://cdn.simpleicons.org/brave/FB542B" />&nbsp;
@@ -50,6 +66,8 @@ sessionize #1AB394
 <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/339933" />&nbsp;
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/notepadplusplus/90E59A" />&nbsp;
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/docker/2496ED" />&nbsp;
 
 
 
