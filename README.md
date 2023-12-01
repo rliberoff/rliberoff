@@ -13,10 +13,20 @@ You can always find me here 👉🏻
 
 sessionize #1AB394
 
+discord #5865F2
+
+twitch #9146FF
+
 #### My Languages
 
 <p float="left">
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/512BD4" />&nbsp;
+  
   <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/512BD4" />&nbsp;
+  
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />&nbsp;
+          
   <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" />&nbsp;
   <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/3178C6" />&nbsp;
   <img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26" />&nbsp;
@@ -26,6 +36,8 @@ sessionize #1AB394
 <img height="32" width="32" src="https://cdn.simpleicons.org/css3/1572B6" />&nbsp;
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/python/3776AB" />&nbsp;
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/yaml/CB171E" />&nbsp;
 
 
 
@@ -42,6 +54,14 @@ sessionize #1AB394
 
 <p float="left">
 
+
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/sonarlint/CB2029" />&nbsp;
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio/5C2D91" />&nbsp;
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/openai/412991/C0C0C0" />&nbsp;
+
 <img height="32" width="32" src="https://cdn.simpleicons.org/dapr/5391FE" />&nbsp;
 
 
@@ -56,6 +76,8 @@ sessionize #1AB394
 <img height="32" width="32" src="https://cdn.simpleicons.org/nuget/004880" />&nbsp;
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/powershell/5391FE" />&nbsp;
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/ngrok/1F1E37/C0C0C0" />&nbsp;
 
 
   
@@ -75,6 +97,8 @@ sessionize #1AB394
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/docker/2496ED" />&nbsp;
 
+<img height="32" width="32" src="https://cdn.simpleicons.org/sonarcloud/F3702A" />&nbsp;
+
 
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/scpfoundation/000000/FFFFFF" />&nbsp;
@@ -86,6 +110,16 @@ sessionize #1AB394
 <img height="32" width="32" src="https://cdn.simpleicons.org/canva/00C4CC" />&nbsp;
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" />&nbsp;
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/dungeonsanddragons/ED1C24" />&nbsp;
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/editorconfig/FEFEFE" />&nbsp;
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/microsoft/5E5E5E" />&nbsp;
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal/4D4D4D" />&nbsp;
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/obsstudio/302E31" />&nbsp;
 
 
   
