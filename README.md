@@ -1,6 +1,6 @@
 # 👋🏻👨🏻‍💻 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=70&duration=2800&pause=10000&color=719B79&multiline=true&random=false&width=920&height=85&lines=Hi+there!+I'm+Rodrigo+Liberoff)](https://git.io/typing-svg)
 
-##### I’m a Computer Engineer with 20+ years of experience in designing, developing, and delivering software systems and applications.
+**I’m a Computer Engineer with 20+ years of experience in designing, developing, and delivering software systems and applications.**
 
 I’m passionate about creating the best software architectures and researching new technologies and their positive impact in the communite and on clients and their companies. I mainly work with Microsoft technologies, especially the .NET platform (currently with .NET 6, 7 and 8) and C# programming language, using Agile Methodologies (like Scrum, SAFe).
 
@@ -15,7 +15,7 @@ You can always find me here 👉🏻
 [![Sessionize](https://img.shields.io/badge/Sessionize-1AB394?style=for-the-badge&logo=sessionize&logoColor=FFF)](https://twitter.com/rliberoff)&nbsp;
 [![Discord](https://img.shields.io/badge/Contact_Me-5865F2?style=for-the-badge&logo=discord&logoColor=FFF)](https://discordapp.com/users/805412670794498059)&nbsp;
 
-### 🛠️ My Languages, Technologies & Tools
+#### 🛠️ My Languages, Technologies & Tools
 
 <p float="left">
 
