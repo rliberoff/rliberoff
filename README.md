@@ -90,6 +90,7 @@ You can always find me here 👉🏻
   <picture><img height="32" width="32" src="https://cdn.simpleicons.org/dungeonsanddragons/ED1C24" /></picture>&nbsp;
 </p>
 
+#
 ### ✍🏻 Latest blog posts
 
 <!-- BLOGPOSTS:START -->
@@ -98,8 +99,9 @@ You can always find me here 👉🏻
 - [Integrando otros LLMs con Semantic Kernel](https://codertectura.com//posts/integrando-otros-llms-con-semantic-kernel)
 <!-- BLOGPOSTS:END -->
 
-&nbsp;&nbsp;&nbsp;<img height="16" src="https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white" />
+&nbsp;&nbsp;&nbsp;&nbsp;<sub>➡️ <a href="https://www.codertectura.com" target="_blank">Read more blog posts...</a></sub>
 
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codertectura.com/atom.xml"><img height="16" src="https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white" /></a>    
 
 ### 📺 Latest videos
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -107,9 +109,9 @@ You can always find me here 👉🏻
 [![💥🫵🏻 FUNCIONES NATIVAS en SEMANTIC KERNEL, y TODO lo que necesitas para implementarlas‼️](https://ytcards.demolab.com/?id=mSJa0oaS_XE&title=%F0%9F%92%A5%F0%9F%AB%B5%F0%9F%8F%BB+FUNCIONES+NATIVAS+en+SEMANTIC+KERNEL%2C+y+TODO+lo+que+necesitas+para+implementarlas%E2%80%BC%EF%B8%8F&lang=en&timestamp=1689260435&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "💥🫵🏻 FUNCIONES NATIVAS en SEMANTIC KERNEL, y TODO lo que necesitas para implementarlas‼️")](https://www.youtube.com/watch?v=mSJa0oaS_XE)
 [![📢 noticIAs — ¡Conversaremos sobre las novedades de los últimos días en temas de Inteligencia](https://ytcards.demolab.com/?id=ARUDgt6kB6g&title=%F0%9F%93%A2+noticIAs+%E2%80%94+%C2%A1Conversaremos+sobre+las+novedades+de+los+%C3%BAltimos+d%C3%ADas+en+temas+de+Inteligencia&lang=en&timestamp=1688490821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "📢 noticIAs — ¡Conversaremos sobre las novedades de los últimos días en temas de Inteligencia")](https://www.youtube.com/watch?v=ARUDgt6kB6g)
 <!-- END YOUTUBE-CARDS -->
+&nbsp;&nbsp;&nbsp;&nbsp;<sub>➡️ <a href="https://www.youtube.com/@CODERTECTURA/videos" target="_blank">Watch more videos...</a></sub>
 
-
-
+#
 ### 📐 My GitHub Statistics
 
 ![My GitHub stats 1](https://github-readme-stats.vercel.app/api?username=rliberoff&rank_icon=github&show_icons=true&theme=gotham)
