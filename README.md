@@ -46,7 +46,7 @@ You can always find me here 👉🏻
   <img height="32" width="32" src="https://cdn.simpleicons.org/jupyter/F37626" />&nbsp;
   <img height="32" width="32" src="https://cdn.simpleicons.org/npm/CB3837" />&nbsp;
   <img height="32" width="32" src="https://cdn.simpleicons.org/prettier/F7B93E" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/editorconfig/FEFEFE" />&nbsp;
+  <img height="32" width="32" src="https://cdn.simpleicons.org/editorconfig/000/FEFEFE" />&nbsp;
   <img height="32" width="32" src="https://cdn.simpleicons.org/windows/0078D4" />&nbsp;
   <img height="32" width="32" src="https://cdn.simpleicons.org/linux/FCC624" />&nbsp;
 </p>
