@@ -11,8 +11,9 @@ You can always find me here 👉🏻
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rliberoff/)&nbsp;
 [![X (formerly Twitter) URL](https://img.shields.io/badge/follow_me-000?style=for-the-badge&logo=X)](https://twitter.com/rliberoff)&nbsp;
 [![YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@CODERTECTURA?sub_confirmation=1)&nbsp;
-[![Twitch](https://img.shields.io/badge/Subscribe-9146FF?style=for-the-badge&logo=twitch&logoColor=FFF)](https://twitter.com/rliberoff)&nbsp;
-[![Sessionize](https://img.shields.io/badge/Sessionize-1AB394?style=for-the-badge&logo=sessionize&logoColor=FFF)](https://twitter.com/rliberoff)&nbsp;
+[![Twitch](https://img.shields.io/badge/Subscribe-9146FF?style=for-the-badge&logo=twitch&logoColor=FFF)](https://www.twitch.tv/codertectura)&nbsp;
+[![Meetup](https://img.shields.io/badge/Meetup-ED1C40?style=for-the-badge&logo=meetup&logoColor=FFF)](https://www.meetup.com/members/262967063/)&nbsp;
+[![Sessionize](https://img.shields.io/badge/Sessionize-1AB394?style=for-the-badge&logo=sessionize&logoColor=FFF)](https://sessionize.com/rliberoff)&nbsp;
 [![Discord](https://img.shields.io/badge/Contact_Me-5865F2?style=for-the-badge&logo=discord&logoColor=FFF)](https://discordapp.com/users/805412670794498059)&nbsp;
 
 #### 🛠️ My Languages, Technologies & Tools
