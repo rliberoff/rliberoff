@@ -20,16 +20,16 @@ You can always find me here 👉🏻
 ###### Languages
 
 <p float="left">
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/3178C6" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/css3/1572B6" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/python/3776AB" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/json/000/C0C0C0" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/yaml/CB171E" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/powershell/5391FE" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/uml/FABD14" />&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/typescript/3178C6" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/css3/1572B6" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/python/3776AB" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/json/000/C0C0C0" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/yaml/CB171E" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/powershell/5391FE" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/uml/FABD14" /></picture>&nbsp;
 </p>
 
 ###### Technologies
