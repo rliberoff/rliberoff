@@ -141,10 +141,17 @@ You can always find me here 👉🏻
 [![📢 noticIAs — ¡Conversaremos sobre las novedades de los últimos días en temas de Inteligencia](https://ytcards.demolab.com/?id=ARUDgt6kB6g&title=%F0%9F%93%A2+noticIAs+%E2%80%94+%C2%A1Conversaremos+sobre+las+novedades+de+los+%C3%BAltimos+d%C3%ADas+en+temas+de+Inteligencia&lang=en&timestamp=1688490821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "📢 noticIAs — ¡Conversaremos sobre las novedades de los últimos días en temas de Inteligencia")](https://www.youtube.com/watch?v=ARUDgt6kB6g)
 <!-- END YOUTUBE-CARDS -->
 
-### 📐 My current GitHub statistics
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rliberoff&rank_icon=github&show_icons=true&theme=gotham)
+
+### 📐 My GitHub Statistics
+
+
+
+![My GitHub stats 1](https://github-readme-stats.vercel.app/api?username=rliberoff&rank_icon=github&show_icons=true&theme=gotham)
 &nbsp;&nbsp;&nbsp;
+![My GitHub stats 2](https://streak-stats.demolab.com/?user=rliberoff&theme=gotham)
+&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rliberoff&theme=high-contrast&radius=10&color=a3d1ce&title_color=4ea788&height=330"/>
 ![My GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rliberoff&layout=compact&show_icons=true&theme=gotham)
 
 
