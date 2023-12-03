@@ -35,58 +35,58 @@ You can always find me here 👉🏻
 ###### Technologies
 
 <p float="left">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/512BD4" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftazure/0078D4" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/openai/412991/C0C0C0" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/dotenv/ECD53F" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/dapr/5391FE" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/docker/2496ED" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/swagger/85EA2D" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/openapiinitiative/6BA539" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/jupyter/F37626" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/npm/CB3837" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/prettier/F7B93E" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/editorconfig/000/FEFEFE" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/windows/0078D4" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/linux/FCC624" />&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/512BD4" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/microsoftazure/0078D4" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/openai/412991/C0C0C0" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/dotenv/ECD53F" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/dapr/5391FE" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/docker/2496ED" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/swagger/85EA2D" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/openapiinitiative/6BA539" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/jupyter/F37626" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/npm/CB3837" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/prettier/F7B93E" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/editorconfig/000/FEFEFE" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/windows/0078D4" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/linux/FCC624" /></picture>&nbsp;
 </p>
 
 ###### Tools
 
 <p float="left">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio/5C2D91" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/azuredevops/0078D7" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/nuget/004880" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/git/F05032" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/339933" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/sonarlint/CB2029" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/sonarcloud/F3702A" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/postman/FF6C37" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/ngrok/1F1E37/C0C0C0" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal/4D4D4D" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/notepadplusplus/90E59A" />&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio/5C2D91" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/azuredevops/0078D7" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/nuget/004880" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/git/F05032" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/339933" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/sonarlint/CB2029" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/sonarcloud/F3702A" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/postman/FF6C37" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/ngrok/1F1E37/C0C0C0" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal/4D4D4D" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/notepadplusplus/90E59A" /></picture>&nbsp;
 </p>
 
 ###### Browsers
 
 <p float="left">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/brave/FB542B" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/firefox/FF7139" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftedge/0078D7" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/googlechrome/4285F4" />&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/brave/FB542B" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/firefox/FF7139" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/microsoftedge/0078D7" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/googlechrome/4285F4" /></picture>&nbsp;
 </p>
 
 ###### Misc
 
 <p float="left">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/pexels/05A081" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/canva/00C4CC" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/obsstudio/302E31/C0C0C0" />&nbsp;
-  <!-- <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_DavinciResolve_Simple.svg" />&nbsp; -->
-  <img height="32" width="32" src="https://cdn.simpleicons.org/scpfoundation/000000/FFFFFF" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/startrek/FFE200" />&nbsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/dungeonsanddragons/ED1C24" />&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/pexels/05A081" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/canva/00C4CC" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/obsstudio/302E31/C0C0C0" /></picture>&nbsp;
+  <!-- <picture><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_DavinciResolve_Simple.svg" /></picture>&nbsp; -->
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/scpfoundation/000000/FFFFFF" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/startrek/FFE200" /></picture>&nbsp;
+  <picture><img height="32" width="32" src="https://cdn.simpleicons.org/dungeonsanddragons/ED1C24" /></picture>&nbsp;
 </p>
 
 ### ✍🏻 Latest blog posts
