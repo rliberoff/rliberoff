@@ -145,17 +145,12 @@ You can always find me here 👉🏻
 
 ### 📐 My GitHub Statistics
 
-
-
 ![My GitHub stats 1](https://github-readme-stats.vercel.app/api?username=rliberoff&rank_icon=github&show_icons=true&theme=gotham)
 &nbsp;&nbsp;&nbsp;
 ![My GitHub stats 2](https://streak-stats.demolab.com/?user=rliberoff&theme=gotham)
 &nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rliberoff&theme=high-contrast&radius=10&color=a3d1ce&title_color=4ea788&height=330&bg_color=0d1014"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rliberoff&theme=gotham&radius=10&height=330"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rliberoff&theme=high-contrast&radius=10&color=a3d1ce&title_color=4ea788&height=330&bg_color=0d1014&line=4ea788&point=a3d1ce"/>
 ![My GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rliberoff&layout=compact&show_icons=true&theme=gotham)
-
-
 
 ###### License
 
