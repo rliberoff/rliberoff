@@ -1,0 +1,34 @@
+name: Update Content
+on:
+  schedule:
+    # Runs every day at 00:05
+    - cron: '5 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pull_blog_rss:
+    name: Update README with latest YouTube videos
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UCPoMaG_tXHGR-g-pJ270hng
+          max_videos: 3
+          max_title_lines: 2
+      
+      - name: Commit file changes
+        run: |
+            git config --global user.name 'Rodrigo Liberoff'
+            git config --global user.email 'rliberoff@users.noreply.github.com'
+            git add .
+            git diff --quiet --cached || git commit -m "Update README with latest YouTube videos"
+      
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
