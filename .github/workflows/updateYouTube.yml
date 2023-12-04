@@ -1,4 +1,4 @@
-name: Update Content
+name: Update README with latest YouTube videos
 on:
   schedule:
     # Runs every day at 00:05
