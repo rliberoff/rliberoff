@@ -95,9 +95,9 @@ You can always find me here 👉🏻
 ### ✍🏻 Latest blog posts
 
 <!-- BLOGPOSTS:START -->
+- [¡Planificando para el éxito!](https://codertectura.com//posts/netcoreconf-2023-madrid-planificando-para-el-exito)
 - [Estaré en la Netcoreconf 2023 de Madrid](https://codertectura.com//posts/nos-vemos-en-la-net-core-conf-2023-madrid)
 - [Nos vemos en los Microsoft 365 Live 2023](https://codertectura.com//posts/nos-vemos-en-microsoft-365-live-2023)
-- [Integrando otros LLMs con Semantic Kernel](https://codertectura.com//posts/integrando-otros-llms-con-semantic-kernel)
 <!-- BLOGPOSTS:END -->
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sub>➡️ <a href="https://www.codertectura.com" target="_blank">Read more blog posts...</a></sub>
