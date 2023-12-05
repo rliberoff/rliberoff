@@ -131,5 +131,6 @@ You can always find me here 👉🏻
 <div align="center">
 
 ### Show some ❤️ by starring some of my repositories!
-
+  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:113108,100:229F1E&section=footer" />
 </div>
