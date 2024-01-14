@@ -8,7 +8,7 @@ I’m always open to new challenges and opportunities, so feel free to contact m
 
 You can always find me here 👉🏻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rliberoff/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rliberoff/)&nbsp;
 [![X (formerly Twitter) URL](https://img.shields.io/badge/follow_me-000?style=for-the-badge&logo=X)](https://twitter.com/rliberoff)&nbsp;
 [![YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@CODERTECTURA?sub_confirmation=1)&nbsp;
 [![Twitch](https://img.shields.io/badge/Subscribe-9146FF?style=for-the-badge&logo=twitch&logoColor=FFF)](https://www.twitch.tv/codertectura)&nbsp;
@@ -17,6 +17,7 @@ You can always find me here 👉🏻
 [![Sessionize](https://img.shields.io/badge/Sessionize-1AB394?style=for-the-badge&logo=sessionize&logoColor=FFF)](https://sessionize.com/rliberoff)&nbsp;
 [![Discord](https://img.shields.io/badge/Contact_Me-5865F2?style=for-the-badge&logo=discord&logoColor=FFF)](https://discordapp.com/users/805412670794498059)&nbsp;
 [![Blog](https://img.shields.io/badge/Blog-C6CDC7?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTIgNEMyIDMuNDQ3NzIgMi40NDc3MiAzIDMgM0gyMUMyMS41NTIzIDMgMjIgMy40NDc3MiAyMiA0VjIwQzIyIDIwLjU1MjMgMjEuNTUyMyAyMSAyMSAyMUgzQzIuNDQ3NzIgMjEgMiAyMC41NTIzIDIgMjBWNFpNNCA1VjE5SDIwVjVINFpNNiA3SDEyVjEzSDZWN1pNOCA5VjExSDEwVjlIOFpNMTQgOUgxOFY3SDE0VjlaTTE4IDEzSDE0VjExSDE4VjEzWk02IDE1VjE3TDE4IDE3VjE1TDYgMTVaIj48L3BhdGg%2BPC9zdmc%2B)](https://www.codertectura.com)&nbsp;
+[![Github Repos](https://img.shields.io/badge/My_Repos-181717?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/rliberoff?tab=repositories)&nbsp;
 
 #### 🛠️ My Languages, Technologies & Tools
 
