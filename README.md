@@ -108,9 +108,7 @@ You can always find me here 👉🏻
 
 ### 📺 Latest videos
 <!-- BEGIN YOUTUBE-CARDS -->
-[![.NET 💖 Inteligencia Arificial - Una sesión de la .NET Conf 2023 Madrid → En 2024](https://ytcards.demolab.com/?id=qKntRemj5gg&title=.NET+%F0%9F%92%96+Inteligencia+Arificial+-+Una+sesi%C3%B3n+de+la+.NET+Conf+2023+Madrid+%E2%86%92+En+2024&lang=en&timestamp=1708243233&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 ".NET 💖 Inteligencia Arificial - Una sesión de la .NET Conf 2023 Madrid → En 2024")](https://www.youtube.com/watch?v=qKntRemj5gg)
-[![🔍 Azure AI Search + Azure OpenAI para Principiantes 🔎](https://ytcards.demolab.com/?id=PRX1iGyz4fk&title=%F0%9F%94%8D+Azure+AI+Search+%2B+Azure+OpenAI+para+Principiantes+%F0%9F%94%8E&lang=en&timestamp=1704816008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "🔍 Azure AI Search + Azure OpenAI para Principiantes 🔎")](https://www.youtube.com/watch?v=PRX1iGyz4fk)
-[![💫 Semantic Kernel 1.0.1 ¡La espera ha terminado!](https://ytcards.demolab.com/?id=vR3UVgUw-J0&title=%F0%9F%92%AB+Semantic+Kernel+1.0.1+%C2%A1La+espera+ha+terminado%21&lang=en&timestamp=1703113234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "💫 Semantic Kernel 1.0.1 ¡La espera ha terminado!")](https://www.youtube.com/watch?v=vR3UVgUw-J0)
+
 <!-- END YOUTUBE-CARDS -->
 &nbsp;&nbsp;&nbsp;&nbsp;<sub>➡️ <a href="https://www.youtube.com/@CODERTECTURA/videos" target="_blank">Watch more videos...</a></sub>
 
