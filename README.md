@@ -47,6 +47,7 @@ You can always find me here 👉🏻
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/microsoftazure/0078D4" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/openai/412991/C0C0C0" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dotenv/ECD53F" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/terraform/844FBA" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dapr/5391FE" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/docker/2496ED" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/swagger/85EA2D" /></picture>&nbsp;
@@ -57,14 +58,20 @@ You can always find me here 👉🏻
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/editorconfig/000/FEFEFE" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/windows/0078D4" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/linux/FCC624" /></picture>&nbsp;
+
+  
+  
 </p>
 
 ###### Tools
+
+
 
 <p float="left">
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/visualstudio/5C2D91" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/azuredevops/0078D7" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/githubcopilot/F0F0F0" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/nuget/004880" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/git/F05032" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/nodedotjs/339933" /></picture>&nbsp;
