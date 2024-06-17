@@ -46,6 +46,7 @@ You can always find me here 👉🏻
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dotnet/512BD4" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/microsoftazure/0078D4" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/openai/412991/C0C0C0" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/huggingface/FFD21E" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dotenv/ECD53F" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/terraform/844FBA" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dapr/5391FE" /></picture>&nbsp;
@@ -102,6 +103,7 @@ You can always find me here 👉🏻
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/scpfoundation/000000/FFFFFF" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/startrek/FFE200" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dungeonsanddragons/ED1C24" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dcentertainment/0078F0" /></picture>&nbsp;  
 </p>
 
 #
