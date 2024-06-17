@@ -98,7 +98,7 @@ You can always find me here 👉🏻
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/pexels/05A081" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/canva/00C4CC" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/obsstudio/302E31/C0C0C0" /></picture>&nbsp;
-  <!-- <picture><img height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_DavinciResolve_Simple.svg" /></picture>&nbsp; -->
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/davinciresolve/233A51" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/scpfoundation/000000/FFFFFF" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/startrek/FFE200" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dungeonsanddragons/ED1C24" /></picture>&nbsp;
