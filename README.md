@@ -28,6 +28,7 @@ You can always find me here 👉🏻
   <picture><img height="24" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/typescript/3178C6" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/javascript/F7DF1E" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/react/61DAFB" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/html5/E34F26" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/css3/1572B6" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/python/3776AB" /></picture>&nbsp;
