@@ -25,83 +25,80 @@ You can always find me here 👉🏻
 ###### Languages
 
 <p float="left">
-  <picture><img height="24" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/typescript/3178C6" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/javascript/F7DF1E" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/react/61DAFB" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/html5/E34F26" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/css3/1572B6" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/python/3776AB" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/json/000/C0C0C0" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/yaml/CB171E" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/powershell/5391FE" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/uml/FABD14" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="C#" title="C#" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JAvaScript" title="JavaScript" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" title="HTML" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" title="CSS" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/json/000/C0C0C0" calt="JSON" title="JSON" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/yaml/CB171E" alt="YAML" title="YAML" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/powershell/5391FE" alt="PowerShell" title="PowerShell" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/uml/FABD14" alt="UML" title="UML" /></picture>&nbsp;
 </p>
 
 ###### Technologies
 
 <p float="left">
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dotnet/512BD4" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/microsoftazure/0078D4" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/openai/412991/C0C0C0" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/huggingface/FFD21E" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dotenv/ECD53F" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/terraform/844FBA" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dapr/5391FE" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/docker/2496ED" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/swagger/85EA2D" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET" title=".NET" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/microsoftazure/0078D4" alt="Azure" title="Azure" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/openai/412991/C0C0C0" alt="OpenAI" title="OpenAI" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="HuggingFace" title="HuggingFace" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dotenv/ECD53F" alt=".ENV" title=".ENV" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/terraform/844FBA" alt="Terraform" title="Terraform" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dapr/5391FE" alt="DAPR" title="DAPR" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" title="Docker" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/swagger/85EA2D" alt="Swagger" title="Swagger" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/openapiinitiative/6BA539" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/jupyter/F37626" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/npm/CB3837" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter Notebooks" title="Jupyter Notebooks" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/npm/CB3837" alt="NPM" title="NPM" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/prettier/F7B93E" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/editorconfig/000/FEFEFE" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/windows/0078D4" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/linux/FCC624" /></picture>&nbsp;
-
-  
-  
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/editorconfig/000/FEFEFE" alt="EditorConfig" title="EditorConfig" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/windows/0078D4" alt="Windows 7/10/11" title="Windows 7/10/11" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" title="Linux" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/ubuntu/E95420" alt="Ubuntu 18/20/22" title="Ubuntu 18/20/22" /></picture>&nbsp;
 </p>
 
 ###### Tools
 
-
-
 <p float="left">
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/visualstudio/5C2D91" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/azuredevops/0078D7" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/githubcopilot/F0F0F0" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/nuget/004880" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/git/F05032" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/nodedotjs/339933" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/sonarlint/CB2029" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/sonarcloud/F3702A" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/postman/FF6C37" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/ngrok/1F1E37/C0C0C0" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/windowsterminal/4D4D4D" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/notepadplusplus/90E59A" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/visualstudio/5C2D91" alt="Visual Studio 2022" title="Visual Studio 2022" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="Visual Studio Code | VSCode" title="Visual Studio Code | VSCode" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/azuredevops/0078D7" alt="Azure DevOps" title="Azure DevOps" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/github/181717/FFF/" alt="GitHub" title="GitHub"  /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/nuget/004880" alt="NuGet" title="NuGet" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node | NodeJS" title="Node | NodeJS" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/sonarlint/CB2029" alt="SonarLint" title="SonarLint" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/sonarcloud/F3702A" alt="SonarCloud" title="SonarCloud" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" title="Postman" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/ngrok/1F1E37/C0C0C0" alt="ngrok" title="ngrok" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/windowsterminal/4D4D4D" alt="Windows Terminal" title="Windows Terminal" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/notepadplusplus/90E59A" alt="Notepad++" title="Notepad++" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/githubcopilot/F0F0F0" alt="GitHub Copilot" title="GitHub Copilot" /></picture>&nbsp;
 </p>
 
 ###### Browsers
 
 <p float="left">
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/brave/FB542B" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/firefox/FF7139" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/microsoftedge/0078D7" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/googlechrome/4285F4" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/brave/FB542B" alt="Brave" title="Brave" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/firefox/FF7139" alt="Firefox" title="Firefox" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/microsoftedge/0078D7" alt="Edge" title="Edge" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Chrome" title="Chrome" /></picture>&nbsp;
 </p>
 
 ###### Misc
 
 <p float="left">
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/pexels/05A081" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/canva/00C4CC" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/obsstudio/302E31/C0C0C0" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/davinciresolve/233A51" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/scpfoundation/000000/FFFFFF" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/startrek/FFE200" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dungeonsanddragons/ED1C24" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dcentertainment/0078F0" /></picture>&nbsp;  
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/pexels/05A081" alt="Pexels | Pexels.com" title="Pexels | Pexels.com" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" title="Canva" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/obsstudio/302E31/C0C0C0" alt="OBS Studio" title="OBS Studio" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/davinciresolve/233A51" alt="DaVinci Resolve 18|19" title="DaVinci Resolve 18|19" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/scpfoundation/000000/FFFFFF" alt="SCP Foundation" title="SCP Foundation" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/startrek/FFE200" alt="Star Trek | Star Fleet" title="Star Trek | Star Fleet" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dungeonsanddragons/ED1C24" alt="Dungeon & Dragons" title="Dungeon & Dragons" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dcentertainment/0078F0" alt="DC Comics" title="DC Comics" /></picture>&nbsp;  
 </p>
 
 #
