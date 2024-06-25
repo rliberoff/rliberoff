@@ -31,6 +31,7 @@ You can always find me here 👉🏻
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" title="HTML" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" title="CSS" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/sass/#CC6699" alt="SASS | SCSS" title="SASS | SCSS" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/json/000/C0C0C0" calt="JSON" title="JSON" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/yaml/CB171E" alt="YAML" title="YAML" /></picture>&nbsp;
