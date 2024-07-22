@@ -22,7 +22,7 @@ You can always find me here 👉🏻
 
 #### 🛠️ My Languages, Technologies & Tools
 
-###### Languages
+##### Languages
 
 <p float="left">
   <picture><img height="24" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="C#" title="C#" /></picture>&nbsp;
@@ -39,7 +39,7 @@ You can always find me here 👉🏻
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/uml/FABD14" alt="UML" title="UML" /></picture>&nbsp;
 </p>
 
-###### Technologies
+##### Technologies
 
 <p float="left">
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET" title=".NET" /></picture>&nbsp;
@@ -61,7 +61,7 @@ You can always find me here 👉🏻
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/ubuntu/E95420" alt="Ubuntu 18/20/22" title="Ubuntu 18/20/22" /></picture>&nbsp;
 </p>
 
-###### Tools
+#### Tools
 
 <p float="left">
   <!-- <picture><img height="24" width="24" src="https://cdn.simpleicons.org/visualstudio/5C2D91" alt="Visual Studio 2022" title="Visual Studio 2022" /></picture>&nbsp; -->
@@ -80,7 +80,7 @@ You can always find me here 👉🏻
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/githubcopilot/F0F0F0" alt="GitHub Copilot" title="GitHub Copilot" /></picture>&nbsp;
 </p>
 
-###### Browsers
+##### Browsers
 
 <p float="left">
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/brave/FB542B" alt="Brave" title="Brave" /></picture>&nbsp;
@@ -89,7 +89,7 @@ You can always find me here 👉🏻
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Chrome" title="Chrome" /></picture>&nbsp;
 </p>
 
-###### Misc
+##### Misc
 
 <p float="left">
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/pexels/05A081" alt="Pexels | Pexels.com" title="Pexels | Pexels.com" /></picture>&nbsp;
