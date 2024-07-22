@@ -35,7 +35,7 @@ You can always find me here 👉🏻
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/json/000/C0C0C0" calt="JSON" title="JSON" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/yaml/CB171E" alt="YAML" title="YAML" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/powershell/5391FE" alt="PowerShell" title="PowerShell" /></picture>&nbsp;
+  <!-- <picture><img height="24" width="24" src="https://cdn.simpleicons.org/powershell/5391FE" alt="PowerShell" title="PowerShell" /></picture>&nbsp; -->
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/uml/FABD14" alt="UML" title="UML" /></picture>&nbsp;
 </p>
 
@@ -43,7 +43,7 @@ You can always find me here 👉🏻
 
 <p float="left">
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET" title=".NET" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/microsoftazure/0078D4" alt="Azure" title="Azure" /></picture>&nbsp;
+  <!-- <picture><img height="24" width="24" src="https://cdn.simpleicons.org/microsoftazure/0078D4" alt="Azure" title="Azure" /></picture>&nbsp; -->
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/openai/412991/C0C0C0" alt="OpenAI" title="OpenAI" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="HuggingFace" title="HuggingFace" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dotenv/ECD53F" alt=".ENV" title=".ENV" /></picture>&nbsp;
@@ -56,7 +56,7 @@ You can always find me here 👉🏻
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/npm/CB3837" alt="NPM" title="NPM" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/prettier/F7B93E" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/editorconfig/000/FEFEFE" alt="EditorConfig" title="EditorConfig" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/windows/0078D4" alt="Windows 7/10/11" title="Windows 7/10/11" /></picture>&nbsp;
+  <!-- <picture><img height="24" width="24" src="https://cdn.simpleicons.org/windows/0078D4" alt="Windows 7/10/11" title="Windows 7/10/11" /></picture>&nbsp; -->
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" title="Linux" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/ubuntu/E95420" alt="Ubuntu 18/20/22" title="Ubuntu 18/20/22" /></picture>&nbsp;
 </p>
@@ -64,9 +64,9 @@ You can always find me here 👉🏻
 ###### Tools
 
 <p float="left">
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/visualstudio/5C2D91" alt="Visual Studio 2022" title="Visual Studio 2022" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="Visual Studio Code | VSCode" title="Visual Studio Code | VSCode" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/azuredevops/0078D7" alt="Azure DevOps" title="Azure DevOps" /></picture>&nbsp;
+  <!-- <picture><img height="24" width="24" src="https://cdn.simpleicons.org/visualstudio/5C2D91" alt="Visual Studio 2022" title="Visual Studio 2022" /></picture>&nbsp; -->
+  <!-- <picture><img height="24" width="24" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="Visual Studio Code | VSCode" title="Visual Studio Code | VSCode" /></picture>&nbsp; -->
+  <!-- <picture><img height="24" width="24" src="https://cdn.simpleicons.org/azuredevops/0078D7" alt="Azure DevOps" title="Azure DevOps" /></picture>&nbsp; -->
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/github/181717/FFF/" alt="GitHub" title="GitHub"  /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/nuget/004880" alt="NuGet" title="NuGet" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" /></picture>&nbsp;
@@ -75,7 +75,7 @@ You can always find me here 👉🏻
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/sonarcloud/F3702A" alt="SonarCloud" title="SonarCloud" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" title="Postman" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/ngrok/1F1E37/C0C0C0" alt="ngrok" title="ngrok" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/windowsterminal/4D4D4D" alt="Windows Terminal" title="Windows Terminal" /></picture>&nbsp;
+  <!-- <picture><img height="24" width="24" src="https://cdn.simpleicons.org/windowsterminal/4D4D4D" alt="Windows Terminal" title="Windows Terminal" /></picture>&nbsp; -->
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/notepadplusplus/90E59A" alt="Notepad++" title="Notepad++" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/githubcopilot/F0F0F0" alt="GitHub Copilot" title="GitHub Copilot" /></picture>&nbsp;
 </p>
@@ -85,7 +85,7 @@ You can always find me here 👉🏻
 <p float="left">
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/brave/FB542B" alt="Brave" title="Brave" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/firefox/FF7139" alt="Firefox" title="Firefox" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/microsoftedge/0078D7" alt="Edge" title="Edge" /></picture>&nbsp;
+  <!-- <picture><img height="24" width="24" src="https://cdn.simpleicons.org/microsoftedge/0078D7" alt="Edge" title="Edge" /></picture>&nbsp; -->
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Chrome" title="Chrome" /></picture>&nbsp;
 </p>
 
