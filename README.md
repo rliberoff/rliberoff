@@ -30,8 +30,8 @@ You can always find me here 👉🏻
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JAvaScript" title="JavaScript" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" title="HTML" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS" title="CSS" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/sass/#CC6699" alt="SASS | SCSS" title="SASS | SCSS" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/css/663399" alt="CSS" title="CSS" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/sass/CC6699" alt="SASS | SCSS" title="SASS | SCSS" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/json/000/C0C0C0" calt="JSON" title="JSON" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/yaml/CB171E" alt="YAML" title="YAML" /></picture>&nbsp;
@@ -67,7 +67,7 @@ You can always find me here 👉🏻
   <!-- <picture><img height="24" width="24" src="https://cdn.simpleicons.org/visualstudio/5C2D91" alt="Visual Studio 2022" title="Visual Studio 2022" /></picture>&nbsp; -->
   <!-- <picture><img height="24" width="24" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="Visual Studio Code | VSCode" title="Visual Studio Code | VSCode" /></picture>&nbsp; -->
   <!-- <picture><img height="24" width="24" src="https://cdn.simpleicons.org/azuredevops/0078D7" alt="Azure DevOps" title="Azure DevOps" /></picture>&nbsp; -->
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/github/181717/FFF/" alt="GitHub" title="GitHub"  /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/github/181717/FFFFFF" alt="GitHub" title="GitHub"  /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/nuget/004880" alt="NuGet" title="NuGet" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node | NodeJS" title="Node | NodeJS" /></picture>&nbsp;
