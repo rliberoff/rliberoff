@@ -145,12 +145,20 @@ You can always find me here 👉🏻
 
 ### 📐 My GitHub Statistics
 
-![My GitHub stats 1](https://github-readme-stats.vercel.app/api?username=rliberoff&rank_icon=github&show_icons=true&theme=gotham)
+![My GitHub top languages - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=rliberoff&layout=compact&show_icons=true&theme=gotham#gh-dark-mode-only)
+![My GitHub top languages - Ligth](https://github-readme-stats.vercel.app/api/top-langs/?username=rliberoff&layout=compact&show_icons=true&theme=vue#gh-ligth-mode-only)
+<br>
+![My GitHub stats 1 - Dark](https://github-readme-stats.vercel.app/api?username=rliberoff&rank_icon=github&show_icons=true&theme=gotham#gh-dark-mode-only)
+![My GitHub stats 1 - Ligth](https://github-readme-stats.vercel.app/api?username=rliberoff&rank_icon=github&show_icons=true&theme=vue#gh-light-mode-only)
 &nbsp;&nbsp;&nbsp;
-![My GitHub stats 2](https://streak-stats.demolab.com/?user=rliberoff&theme=gotham)
-&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rliberoff&theme=high-contrast&radius=10&color=a3d1ce&title_color=4ea788&height=330&bg_color=0d1014&line=4ea788&point=a3d1ce"/>
-![My GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rliberoff&layout=compact&show_icons=true&theme=gotham)
+![My GitHub stats 2 - Dark](https://streak-stats.demolab.com/?user=rliberoff&theme=gotham#gh-dark-mode-only)
+![My GitHub stats 2 - Ligth](https://streak-stats.demolab.com/?user=rliberoff&theme=vuem#gh-ligth-mode-only)
+<div style="border:1px solid #e4e2e2; border-radius:5px;padding: 2px; margin-top: -15px;">
+
+![Activity Graph - Dark](https://github-readme-activity-graph.vercel.app/graph?username=rliberoff&radius=10&color=a3d1ce&title_color=4ea788&height=330&bg_color=0d1014&line=4ea788&point=a3d1ce&theme=high-contrast#gh-dark-mode-only)
+![Activity Graph - Ligth](https://github-readme-activity-graph.vercel.app/graph?username=rliberoff&radius=10&theme=github-light#gh-ligth-mode-only)
+
+</div>
 
 ###### License
 
