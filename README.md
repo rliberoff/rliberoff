@@ -4,7 +4,7 @@
 
 I’m passionate about creating the best software architectures and researching new technologies and their positive impact in the communite and on clients and their companies. I mainly work with Microsoft technologies, especially the .NET platform (currently with .NET 6, 7 and 8) and C# programming language, using Agile Methodologies (like Scrum, SAFe).
 
-I’m always open to new challenges and opportunities, so feel free to contact me if you want to collaborate or just talk. 
+I’m always open to new challenges and opportunities, so feel free to contact me if you want to collaborate or just talk.
 
 You can always find me here 👉🏻
 
@@ -35,7 +35,7 @@ You can always find me here 👉🏻
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/json/000/C0C0C0" calt="JSON" title="JSON" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/yaml/CB171E" alt="YAML" title="YAML" /></picture>&nbsp;
-  <!-- <picture><img height="24" width="24" src="https://cdn.simpleicons.org/powershell/5391FE" alt="PowerShell" title="PowerShell" /></picture>&nbsp; -->
+  <picture><img height="24" width="24" src="images/powershell.svg" alt="PowerShell" title="PowerShell" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/uml/FABD14" alt="UML" title="UML" /></picture>&nbsp;
 </p>
 
@@ -43,7 +43,7 @@ You can always find me here 👉🏻
 
 <p float="left">
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET" title=".NET" /></picture>&nbsp;
-  <!-- <picture><img height="24" width="24" src="https://cdn.simpleicons.org/microsoftazure/0078D4" alt="Azure" title="Azure" /></picture>&nbsp; -->
+  <picture><img height="24" width="24" src="images/microsoftazure.svg" alt="Azure" title="Azure" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/openai/412991/C0C0C0" alt="OpenAI" title="OpenAI" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="HuggingFace" title="HuggingFace" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dotenv/ECD53F" alt=".ENV" title=".ENV" /></picture>&nbsp;
@@ -56,17 +56,27 @@ You can always find me here 👉🏻
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/npm/CB3837" alt="NPM" title="NPM" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/prettier/F7B93E" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/editorconfig/000/FEFEFE" alt="EditorConfig" title="EditorConfig" /></picture>&nbsp;
-  <!-- <picture><img height="24" width="24" src="https://cdn.simpleicons.org/windows/0078D4" alt="Windows 7/10/11" title="Windows 7/10/11" /></picture>&nbsp; -->
+  <picture><img height="24" width="24" src="images/windows.svg" alt="Windows 7/10/11" title="Windows 7/10/11" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" title="Linux" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/ubuntu/E95420" alt="Ubuntu 18/20/22" title="Ubuntu 18/20/22" /></picture>&nbsp;
+</p>
+<p float="left">
+  <picture><img height="24" width="24" src="images/microsoftexcel.svg" alt="Excel" title="Excel" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="images/microsoftword.svg" alt="Word" title="Word" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="images/microsoftpowerpoint.svg" alt="PowerPoint" title="PowerPoint" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="images/microsoftoutlook.svg" alt="Outlook" title="Outlook" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="images/microsoftonenote.svg" alt="OneNote" title="OneNote" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="images/microsoftvisio.svg" alt="Visio" title="Visio" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="images/microsoftonedrive.svg" alt="OneDrive" title="OneDrive" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="images/microsoftteams.svg" alt="Teams" title="Teams" /></picture>&nbsp;
 </p>
 
 #### Tools
 
 <p float="left">
-  <!-- <picture><img height="24" width="24" src="https://cdn.simpleicons.org/visualstudio/5C2D91" alt="Visual Studio 2022" title="Visual Studio 2022" /></picture>&nbsp; -->
-  <!-- <picture><img height="24" width="24" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="Visual Studio Code | VSCode" title="Visual Studio Code | VSCode" /></picture>&nbsp; -->
-  <!-- <picture><img height="24" width="24" src="https://cdn.simpleicons.org/azuredevops/0078D7" alt="Azure DevOps" title="Azure DevOps" /></picture>&nbsp; -->
+  <picture><img height="24" width="24" src="images/visualstudio.svg" alt="Visual Studio 2022" title="Visual Studio 2022" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="images/visualstudiocode.svg" alt="Visual Studio Code | VSCode" title="Visual Studio Code | VSCode" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="images/azuredevops.svg" alt="Azure DevOps" title="Azure DevOps" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/github/181717/FFFFFF" alt="GitHub" title="GitHub"  /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/nuget/004880" alt="NuGet" title="NuGet" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" /></picture>&nbsp;
@@ -75,7 +85,7 @@ You can always find me here 👉🏻
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/sonarcloud/F3702A" alt="SonarCloud" title="SonarCloud" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" title="Postman" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/ngrok/1F1E37/C0C0C0" alt="ngrok" title="ngrok" /></picture>&nbsp;
-  <!-- <picture><img height="24" width="24" src="https://cdn.simpleicons.org/windowsterminal/4D4D4D" alt="Windows Terminal" title="Windows Terminal" /></picture>&nbsp; -->
+  <picture><img height="24" width="24" src="images/windowsterminal.svg" alt="Windows Terminal" title="Windows Terminal" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/notepadplusplus/90E59A" alt="Notepad++" title="Notepad++" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/githubcopilot/F0F0F0" alt="GitHub Copilot" title="GitHub Copilot" /></picture>&nbsp;
 </p>
@@ -85,7 +95,7 @@ You can always find me here 👉🏻
 <p float="left">
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/brave/FB542B" alt="Brave" title="Brave" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/firefox/FF7139" alt="Firefox" title="Firefox" /></picture>&nbsp;
-  <!-- <picture><img height="24" width="24" src="https://cdn.simpleicons.org/microsoftedge/0078D7" alt="Edge" title="Edge" /></picture>&nbsp; -->
+  <picture><img height="24" width="24" src="images/microsoftedge.svg" alt="Edge" title="Edge" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Chrome" title="Chrome" /></picture>&nbsp;
 </p>
 
@@ -103,27 +113,34 @@ You can always find me here 👉🏻
 </p>
 
 #
+
 ### ✍🏻 Latest blog posts
 
 <!-- BLOGPOSTS:START -->
-- [¡Planificando para el éxito!](https://codertectura.com//posts/netcoreconf-2023-madrid-planificando-para-el-exito)
-- [Estaré en la Netcoreconf 2023 de Madrid](https://codertectura.com//posts/nos-vemos-en-la-net-core-conf-2023-madrid)
-- [Nos vemos en los Microsoft 365 Live 2023](https://codertectura.com//posts/nos-vemos-en-microsoft-365-live-2023)
+
+-   [¡Planificando para el éxito!](https://codertectura.com//posts/netcoreconf-2023-madrid-planificando-para-el-exito)
+-   [Estaré en la Netcoreconf 2023 de Madrid](https://codertectura.com//posts/nos-vemos-en-la-net-core-conf-2023-madrid)
+-   [Nos vemos en los Microsoft 365 Live 2023](https://codertectura.com//posts/nos-vemos-en-microsoft-365-live-2023)
 <!-- BLOGPOSTS:END -->
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sub>➡️ <a href="https://www.codertectura.com" target="_blank">Read more blog posts...</a></sub>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codertectura.com/atom.xml"><img height="16" src="https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white" /></a>    
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codertectura.com/atom.xml"><img height="16" src="https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white" /></a>
 
 ### 📺 Latest videos
+
 <!-- BEGIN YOUTUBE-CARDS -->
+
 [![¿Han hecho obsoleto al Bot Framewok? ⚰️ … ¿Y lo reemplazará el nuevo Microsoft 365 Agents SDK? 🤖🆕](https://ytcards.demolab.com/?id=olDx1F8V_Q0&title=%C2%BFHan+hecho+obsoleto+al+Bot+Framewok%3F+%E2%9A%B0%EF%B8%8F+%E2%80%A6+%C2%BFY+lo+reemplazar%C3%A1+el+nuevo+Microsoft+365+Agents+SDK%3F+%F0%9F%A4%96%F0%9F%86%95&lang=en&timestamp=1734735645&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "¿Han hecho obsoleto al Bot Framewok? ⚰️ … ¿Y lo reemplazará el nuevo Microsoft 365 Agents SDK? 🤖🆕")](https://www.youtube.com/watch?v=olDx1F8V_Q0)
 [![☠️ Los planners de Semantic Kernel han mueto ☠️ O por lo menos eso creo 🙄](https://ytcards.demolab.com/?id=8BzFx8xLN8A&title=%E2%98%A0%EF%B8%8F+Los+planners+de+Semantic+Kernel+han+mueto+%E2%98%A0%EF%B8%8F+O+por+lo+menos+eso+creo+%F0%9F%99%84&lang=en&timestamp=1725897612&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "☠️ Los planners de Semantic Kernel han mueto ☠️ O por lo menos eso creo 🙄")](https://www.youtube.com/watch?v=8BzFx8xLN8A)
 [![💥¡Crea un ChatGPT en tu equipo sin la nube! Con Ollama, Microsoft PHI-3 y Semantic Kernel💥](https://ytcards.demolab.com/?id=s_nnOy5EWTA&title=%F0%9F%92%A5%C2%A1Crea+un+ChatGPT+en+tu+equipo+sin+la+nube%21+Con+Ollama%2C+Microsoft+PHI-3+y+Semantic+Kernel%F0%9F%92%A5&lang=en&timestamp=1720617486&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "💥¡Crea un ChatGPT en tu equipo sin la nube! Con Ollama, Microsoft PHI-3 y Semantic Kernel💥")](https://www.youtube.com/watch?v=s_nnOy5EWTA)
+
 <!-- END YOUTUBE-CARDS -->
+
 &nbsp;&nbsp;&nbsp;&nbsp;<sub>➡️ <a href="https://www.youtube.com/@CODERTECTURA/videos" target="_blank">Watch more videos...</a></sub>
 
 #
+
 ### 📐 My GitHub Statistics
 
 ![My GitHub stats 1](https://github-readme-stats.vercel.app/api?username=rliberoff&rank_icon=github&show_icons=true&theme=gotham)
@@ -141,6 +158,6 @@ You can always find me here 👉🏻
 <div align="center">
 
 ### Show some ❤️ by starring some of my repositories!
-  
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:113108,100:229F1E&section=footer" />
 </div>
