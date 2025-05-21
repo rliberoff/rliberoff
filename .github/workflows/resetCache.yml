@@ -1,0 +1,21 @@
+name: "resetCache"
+on:
+    workflow_dispatch:
+
+permissions:
+    contents: write
+
+jobs:
+    purge_cache:
+        name: Purge camo.githubusercontent.com cache
+        runs-on: ubuntu-latest
+        steps:
+            - name: Determine current branch
+              uses: tj-actions/branch-names@v8
+              id: branch-name
+
+            - name: Purge images from camo.githubusercontent.com
+              shell: bash
+              run: |
+                  urls=$(curl -sLk "https://github.com/${{ github.repository_owner }}/${{ github.event.repository.name }}/tree/${{ steps.branch-name.outputs.current_branch }}" | grep -Eo "(http|https)://camo.githubusercontent.com[a-zA-Z0-9./?=_%:-]*")
+                  while IFS= read -r url; do curl -X PURGE "$url"; done <<< "$urls""
