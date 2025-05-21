@@ -69,6 +69,7 @@ You can always find me here 👉🏻
   <picture><img height="24" width="24" src="images/microsoftvisio.svg" alt="Visio" title="Visio" /></picture>&nbsp;
   <picture><img height="24" width="24" src="images/microsoftonedrive.svg" alt="OneDrive" title="OneDrive" /></picture>&nbsp;
   <picture><img height="24" width="24" src="images/microsoftteams.svg" alt="Teams" title="Teams" /></picture>&nbsp;
+  <picture><img height="22" width="22" src="images/microsoft365.svg" alt="Microsoft 365" title="Microsoft 365" /></picture>&nbsp;
 </p>
 
 #### Tools
@@ -88,6 +89,7 @@ You can always find me here 👉🏻
   <picture><img height="24" width="24" src="images/windowsterminal.svg" alt="Windows Terminal" title="Windows Terminal" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/notepadplusplus/90E59A" alt="Notepad++" title="Notepad++" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/githubcopilot/F0F0F0" alt="GitHub Copilot" title="GitHub Copilot" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="images/microsoftcopilot.svg" alt="Copilot M365" title="Copilot M365" /></picture>&nbsp;
 </p>
 
 ##### Browsers
