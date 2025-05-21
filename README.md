@@ -84,7 +84,7 @@ You can always find me here 👉🏻
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/sonarlint/CB2029" alt="SonarLint" title="SonarLint" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/sonarcloud/F3702A" alt="SonarCloud" title="SonarCloud" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" title="Postman" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/ngrok/1F1E37/C0C0C0" alt="ngrok" title="ngrok" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/ngrok/1F1E36/C0C0C0" alt="ngrok" title="ngrok" /></picture>&nbsp;
   <picture><img height="24" width="24" src="images/windowsterminal.svg" alt="Windows Terminal" title="Windows Terminal" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/notepadplusplus/90E59A" alt="Notepad++" title="Notepad++" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/githubcopilot/F0F0F0" alt="GitHub Copilot" title="GitHub Copilot" /></picture>&nbsp;
