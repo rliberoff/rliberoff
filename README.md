@@ -88,7 +88,7 @@ You can always find me here 👉🏻
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/ngrok/1F1E36/C0C0C0" alt="ngrok" title="ngrok" /></picture>&nbsp;
   <picture><img height="24" width="24" src="images/windowsterminal.svg" alt="Windows Terminal" title="Windows Terminal" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/notepadplusplus/90E59A" alt="Notepad++" title="Notepad++" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/githubcopilot/F0F0F0" alt="GitHub Copilot" title="GitHub Copilot" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/githubcopilot/000000/F0F0F0" alt="GitHub Copilot" title="GitHub Copilot" /></picture>&nbsp;
   <picture><img height="24" width="24" src="images/microsoftcopilot.svg" alt="Copilot M365" title="Copilot M365" /></picture>&nbsp;
 </p>
 
@@ -145,6 +145,8 @@ You can always find me here 👉🏻
 
 ### 📐 My GitHub Statistics
 
+
+
 [![My GitHub top languages - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=rliberoff&layout=compact&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=rliberoff&layout=compact&show_icons=true&theme=gotham#gh-dark-mode-only)
 [![My GitHub top languages - Ligth](https://github-readme-stats.vercel.app/api/top-langs/?username=rliberoff&layout=compact&show_icons=true&theme=vue#gh-ligth-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=rliberoff&layout=compact&show_icons=true&theme=vue#gh-ligth-mode-only)
 <br>
@@ -153,13 +155,8 @@ You can always find me here 👉🏻
 &nbsp;&nbsp;&nbsp;
 [![My GitHub stats 2 - Dark](https://streak-stats.demolab.com/?user=rliberoff&theme=gotham#gh-dark-mode-only)](https://streak-stats.demolab.com/?user=rliberoff&theme=gotham#gh-dark-mode-only)
 [![My GitHub stats 2 - Ligth](https://streak-stats.demolab.com/?user=rliberoff&theme=vuem#gh-ligth-mode-only)](https://streak-stats.demolab.com/?user=rliberoff&theme=vuem#gh-ligth-mode-only)
-
-<div style="border:1px solid #e4e2e2; border-radius:5px;padding: 2px; margin-top: -15px;">
-
 [![Activity Graph - Dark](https://github-readme-activity-graph.vercel.app/graph?username=rliberoff&radius=10&color=a3d1ce&title_color=4ea788&height=330&bg_color=0d1014&line=4ea788&point=a3d1ce&theme=high-contrast#gh-dark-mode-only)](https://github-readme-activity-graph.vercel.app/graph?username=rliberoff&radius=10&color=a3d1ce&title_color=4ea788&height=330&bg_color=0d1014&line=4ea788&point=a3d1ce&theme=high-contrast#gh-dark-mode-only)
 [![Activity Graph - Ligth](https://github-readme-activity-graph.vercel.app/graph?username=rliberoff&radius=10&theme=github-light#gh-ligth-mode-only)](https://github-readme-activity-graph.vercel.app/graph?username=rliberoff&radius=10&theme=github-light#gh-ligth-mode-only)
-
-</div>
 
 ###### License
 
