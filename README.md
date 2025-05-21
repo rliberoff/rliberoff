@@ -152,13 +152,10 @@ You can always find me here 👉🏻
 [![My GitHub stats 1 - Light](https://github-readme-stats.vercel.app/api?username=rliberoff&rank_icon=github&show_icons=true&theme=vue#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=rliberoff&rank_icon=github&show_icons=true&theme=vue#gh-light-mode-only)
 <br>
 [![My GitHub stats 2 - Dark](https://streak-stats.demolab.com/?user=rliberoff&theme=gotham#gh-dark-mode-only)](https://streak-stats.demolab.com/?user=rliberoff&theme=gotham#gh-dark-mode-only)
-[![My GitHub stats 2 - Light](https://streak-stats.demolab.com/?user=rliberoff&theme=vue#gh-light-mode-only)](https://streak-stats.demolab.com/?user=rliberoff&theme=vue#gh-light-mode-only)
+[![My GitHub stats 2 - Dark](https://streak-stats.demolab.com/?user=rliberoff&theme=vue#gh-light-mode-only)](https://streak-stats.demolab.com/?user=rliberoff&theme=vue#gh-light-mode-only)
 <br>
 [![Activity Graph - Dark](https://github-readme-activity-graph.vercel.app/graph?username=rliberoff&radius=10&color=a3d1ce&title_color=4ea788&height=330&bg_color=0d1014&line=4ea788&point=a3d1ce&theme=high-contrast#gh-dark-mode-only)](https://github-readme-activity-graph.vercel.app/graph?username=rliberoff&radius=10&color=a3d1ce&title_color=4ea788&height=330&bg_color=0d1014&line=4ea788&point=a3d1ce&theme=high-contrast#gh-dark-mode-only)
 [![Activity Graph - Light](https://github-readme-activity-graph.vercel.app/graph?username=rliberoff&radius=10&theme=github-light#gh-light-mode-only)](https://github-readme-activity-graph.vercel.app/graph?username=rliberoff&radius=10&theme=github-light#gh-light-mode-only)
-
-
-
 
 ###### License
 
