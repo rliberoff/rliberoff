@@ -145,14 +145,12 @@ You can always find me here 👉🏻
 
 ### 📐 My GitHub Statistics
 
-
-
 [![My GitHub top languages - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=rliberoff&layout=compact&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=rliberoff&layout=compact&show_icons=true&theme=gotham#gh-dark-mode-only)
 [![My GitHub top languages - Ligth](https://github-readme-stats.vercel.app/api/top-langs/?username=rliberoff&layout=compact&show_icons=true&theme=vue#gh-ligth-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=rliberoff&layout=compact&show_icons=true&theme=vue#gh-ligth-mode-only)
 <br>
 [![My GitHub stats 1 - Dark](https://github-readme-stats.vercel.app/api?username=rliberoff&rank_icon=github&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=rliberoff&rank_icon=github&show_icons=true&theme=gotham#gh-dark-mode-only)
 [![My GitHub stats 1 - Ligth](https://github-readme-stats.vercel.app/api?username=rliberoff&rank_icon=github&show_icons=true&theme=vue#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=rliberoff&rank_icon=github&show_icons=true&theme=vue#gh-light-mode-only)
-&nbsp;&nbsp;&nbsp;
+<br>
 [![My GitHub stats 2 - Dark](https://streak-stats.demolab.com/?user=rliberoff&theme=gotham#gh-dark-mode-only)](https://streak-stats.demolab.com/?user=rliberoff&theme=gotham#gh-dark-mode-only)
 [![My GitHub stats 2 - Ligth](https://streak-stats.demolab.com/?user=rliberoff&theme=vuem#gh-ligth-mode-only)](https://streak-stats.demolab.com/?user=rliberoff&theme=vuem#gh-ligth-mode-only)
 [![Activity Graph - Dark](https://github-readme-activity-graph.vercel.app/graph?username=rliberoff&radius=10&color=a3d1ce&title_color=4ea788&height=330&bg_color=0d1014&line=4ea788&point=a3d1ce&theme=high-contrast#gh-dark-mode-only)](https://github-readme-activity-graph.vercel.app/graph?username=rliberoff&radius=10&color=a3d1ce&title_color=4ea788&height=330&bg_color=0d1014&line=4ea788&point=a3d1ce&theme=high-contrast#gh-dark-mode-only)
