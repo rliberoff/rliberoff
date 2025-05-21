@@ -45,7 +45,7 @@ You can always find me here 👉🏻
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET" title=".NET" /></picture>&nbsp;
   <picture><img height="24" width="24" src="images/microsoftazure.svg" alt="Azure" title="Azure" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/openai/412991/C0C0C0" alt="OpenAI" title="OpenAI" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="HuggingFace" title="HuggingFace" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/huggingface/FFD21D" alt="HuggingFace" title="HuggingFace" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dotenv/ECD53F" alt=".ENV" title=".ENV" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/terraform/844FBA" alt="Terraform" title="Terraform" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dapr/5391FE" alt="DAPR" title="DAPR" /></picture>&nbsp;
