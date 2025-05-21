@@ -60,17 +60,6 @@ You can always find me here 👉🏻
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" title="Linux" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/ubuntu/E95420" alt="Ubuntu 18/20/22" title="Ubuntu 18/20/22" /></picture>&nbsp;
 </p>
-<p float="left">
-  <picture><img height="24" width="24" src="images/microsoftexcel.svg" alt="Excel" title="Excel" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="images/microsoftword.svg" alt="Word" title="Word" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="images/microsoftpowerpoint.svg" alt="PowerPoint" title="PowerPoint" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="images/microsoftoutlook.svg" alt="Outlook" title="Outlook" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="images/microsoftonenote.svg" alt="OneNote" title="OneNote" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="images/microsoftvisio.svg" alt="Visio" title="Visio" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="images/microsoftonedrive.svg" alt="OneDrive" title="OneDrive" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="images/microsoftteams.svg" alt="Teams" title="Teams" /></picture>&nbsp;
-  <picture><img height="22" width="22" src="images/microsoft365.svg" alt="Microsoft 365" title="Microsoft 365" /></picture>&nbsp;
-</p>
 
 #### Tools
 
@@ -90,6 +79,17 @@ You can always find me here 👉🏻
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/notepadplusplus/90E59A" alt="Notepad++" title="Notepad++" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/githubcopilot/000000/F0F0F0" alt="GitHub Copilot" title="GitHub Copilot" /></picture>&nbsp;
   <picture><img height="24" width="24" src="images/microsoftcopilot.svg" alt="Copilot M365" title="Copilot M365" /></picture>&nbsp;
+</p>
+<p float="left">
+  <picture><img height="24" width="24" src="images/microsoftexcel.svg" alt="Excel" title="Excel" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="images/microsoftword.svg" alt="Word" title="Word" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="images/microsoftpowerpoint.svg" alt="PowerPoint" title="PowerPoint" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="images/microsoftoutlook.svg" alt="Outlook" title="Outlook" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="images/microsoftonenote.svg" alt="OneNote" title="OneNote" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="images/microsoftvisio.svg" alt="Visio" title="Visio" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="images/microsoftonedrive.svg" alt="OneDrive" title="OneDrive" /></picture>&nbsp;
+  <picture><img height="24" width="24" src="images/microsoftteams.svg" alt="Teams" title="Teams" /></picture>&nbsp;
+  <picture><img height="22" width="22" src="images/microsoft365.svg" alt="Microsoft 365" title="Microsoft 365" /></picture>&nbsp;
 </p>
 
 ##### Browsers
