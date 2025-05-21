@@ -18,4 +18,4 @@ jobs:
               shell: bash
               run: |
                   urls=$(curl -sLk "https://github.com/${{ github.repository_owner }}/${{ github.event.repository.name }}/tree/${{ steps.branch-name.outputs.current_branch }}" | grep -Eo "(http|https)://camo.githubusercontent.com[a-zA-Z0-9./?=_%:-]*")
-                  while IFS= read -r url; do curl -X PURGE "$url"; done <<< "$urls""
+                  while IFS= read -r url; do curl -X PURGE "$url"; done <<< "$urls"
