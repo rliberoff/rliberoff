@@ -71,8 +71,10 @@ You can always find me here 👉🏻
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/nuget/004880" alt="NuGet" title="NuGet" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node | NodeJS" title="Node | NodeJS" /></picture>&nbsp;
+  <!--
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/sonarlint/CB2029" alt="SonarLint" title="SonarLint" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/sonarcloud/F3702A" alt="SonarCloud" title="SonarCloud" /></picture>&nbsp;
+  -->
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" title="Postman" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/ngrok/1F1E36/C0C0C0" alt="ngrok" title="ngrok" /></picture>&nbsp;
   <picture><img height="24" width="24" src="images/windowsterminal.svg" alt="Windows Terminal" title="Windows Terminal" /></picture>&nbsp;
