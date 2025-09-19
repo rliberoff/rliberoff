@@ -6,6 +6,10 @@ I’m passionate about creating the best software architectures and researching 
 
 I’m always open to new challenges and opportunities, so feel free to contact me if you want to collaborate or just talk.
 
+🔭 I’m currently working at [ENCAMINA](https://www.encamina.com)
+
+💬 Ask me anythiong about C#, .NET, Generative AI, Azure and APIs 💡
+
 You can always find me here 👉🏻
 
 [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rliberoff/)&nbsp;
