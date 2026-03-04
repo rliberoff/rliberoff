@@ -1,4 +1,4 @@
-# 👋🏻👨🏻‍💻 ![](https://readme-typing-svg.demolab.com?font=VT323&size=70&duration=2800&pause=10000&color=719B79&multiline=true&random=false&width=920&height=85&lines=Hi+there!+I'm+Rodrigo+Liberoff)
+# 👋🏻🧢 ![](https://readme-typing-svg.demolab.com?font=VT323&size=70&duration=2800&pause=10000&color=719B79&multiline=true&random=false&width=920&height=85&lines=Hi+there!+I'm+Rodrigo+Liberoff)
 
 **I’m a Computer Engineer with 20+ years of experience in designing, developing, and delivering software systems and applications.**
 
