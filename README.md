@@ -48,7 +48,9 @@ You can always find me here 👉🏻
 <p float="left">
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET" title=".NET" /></picture>&nbsp;
   <picture><img height="24" width="24" src="images/microsoftazure.svg" alt="Azure" title="Azure" /></picture>&nbsp;
+  
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/openai/412991/C0C0C0" alt="OpenAI" title="OpenAI" /></picture>&nbsp;
+
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/huggingface/FFD21D" alt="HuggingFace" title="HuggingFace" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/dotenv/ECD53F" alt=".ENV" title=".ENV" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/terraform/844FBA" alt="Terraform" title="Terraform" /></picture>&nbsp;
@@ -111,7 +113,7 @@ You can always find me here 👉🏻
 
 <p float="left">
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/pexels/05A081" alt="Pexels | Pexels.com" title="Pexels | Pexels.com" /></picture>&nbsp;
-  <picture><img height="24" width="24" src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" title="Canva" /></picture>&nbsp;
+  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva | Canva.com" title="Canva | Canva.com" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/obsstudio/302E31/C0C0C0" alt="OBS Studio" title="OBS Studio" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/davinciresolve/233A51" alt="DaVinci Resolve 18|19" title="DaVinci Resolve 18|19" /></picture>&nbsp;
   <picture><img height="24" width="24" src="https://cdn.simpleicons.org/scpfoundation/000000/FFFFFF" alt="SCP Foundation" title="SCP Foundation" /></picture>&nbsp;
