@@ -147,6 +147,28 @@ You can always find me here 👉🏻
 
 #
 
+### 🏅Awards & Certifications
+<p float="left">
+  <picture><img height="115" width="115" src="/images/cert-microsoft-azure-fundamentals.png" alt="Microsoft Certified: Azure Fundamentals" title="Microsoft Certified: Azure Fundamentals" /></picture>&nbsp;
+  <picture><img height="115" width="115" src="/images/cert-microsoft-azure-ai-fundamentals.png" alt="Microsoft Certified: Azure AI Fundamentals" title="Microsoft Certified: Azure AI Fundamentals" /></picture>&nbsp;
+  <picture><img height="115" width="115" src="/images/cert-microsoft-power-platform-fundamentals.png" alt="Microsoft Certified: Power Platform Fundamentals" title="Microsoft Certified: Power Platform Fundamentals" /></picture>&nbsp;
+  <picture><img height="115" width="115" src="/images/cert-microsoft-azure-administrator-associate.png" alt="Microsoft Certified: Azure Administrator Associate" title="Microsoft Certified: Azure Administrator Associate" /></picture>&nbsp;
+  <picture><img height="115" width="115" src="/images/cert-microsoft-azure-developer-associate.png" alt="Microsoft Certified: Azure Developer Associate" title="Microsoft Certified: Azure Developer Associate" /></picture>&nbsp;
+  <picture><img height="115" width="115" src="/images/cert-microsoft-azure-ai-engineer.png" alt="Microsoft Certified: Azure AI Engineer Associate" title="Microsoft Certified: Azure AI Engineer Associate" /></picture>&nbsp;
+  <picture><img height="115" width="115" src="/images/cert-microsoft-devops-engineer-expert.png" alt="Microsoft Certified: DevOps Engineer Expert" title="Microsoft Certified: DevOps Engineer Expert" /></picture>&nbsp;
+  <picture><img height="115" width="115" src="/images/cert-microsoft-azure-solutions-architect-expert.png" alt="Microsoft Certified: Azure Solutions Architect Expert" title="Microsoft Certified: Azure Solutions Architect Expert" /></picture>&nbsp;
+</p>
+<p float="left">
+  <picture><img height="115" width="115" src="/images/cert-github-foundations.svg.png" alt="GitHub Foundation" title="GitHub Foundation" /></picture>&nbsp;
+  <picture><img height="115" width="115" src="/images/cert-github-advanced-security.svg.png" alt="GitHub Advanced Security" title="GitHub Advanced Security" /></picture>&nbsp;
+  <picture><img src="/images/cert-sessionize-most-active-speaker-2024.svg" alt="Sessionize Most Active Speaker 2024" title="Sessionize Most Active Speaker 2024" /></picture>&nbsp;
+  <picture><img src="/images/cert-sessionize-most-active-speaker-2025.svg" alt="Sessionize Most Active Speaker 2025" title="Sessionize Most Active Speaker 2025" /></picture>&nbsp;
+</p>
+<p float="left">
+  <picture><img height="110" width="110" src="/images/mvp-microsoft-2024.png" alt="Microsoft MVP 2024 - Azure AI Services " title="Microsoft MVP 2024 - Azure AI Services" /></picture>&nbsp;
+  <picture><img height="110" width="110" src="/images/mvp-microsoft-2025.png" alt="Microsoft MVP 2025 - Azure AI Foundry" title="Microsoft MVP 2025 - Azure AI Foundry" /></picture>&nbsp;
+</p>
+
 ### 📐 My GitHub Statistics
 <!-- Temporarily disabled due to source-related errors
 [![My GitHub top languages - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=rliberoff&layout=compact&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=rliberoff&layout=compact&show_icons=true&theme=gotham#gh-dark-mode-only)
