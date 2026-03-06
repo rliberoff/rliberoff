@@ -157,8 +157,6 @@ You can always find me here 👉🏻
   <picture><img height="115" width="115" src="/images/cert-microsoft-azure-ai-engineer.png" alt="Microsoft Certified: Azure AI Engineer Associate" title="Microsoft Certified: Azure AI Engineer Associate" /></picture>&nbsp;
   <picture><img height="115" width="115" src="/images/cert-microsoft-devops-engineer-expert.png" alt="Microsoft Certified: DevOps Engineer Expert" title="Microsoft Certified: DevOps Engineer Expert" /></picture>&nbsp;
   <picture><img height="115" width="115" src="/images/cert-microsoft-azure-solutions-architect-expert.png" alt="Microsoft Certified: Azure Solutions Architect Expert" title="Microsoft Certified: Azure Solutions Architect Expert" /></picture>&nbsp;
-</p>
-<p float="left">
   <picture><img height="115" width="115" src="/images/cert-github-foundations.svg.png" alt="GitHub Foundation" title="GitHub Foundation" /></picture>&nbsp;
   <picture><img height="115" width="115" src="/images/cert-github-advanced-security.svg.png" alt="GitHub Advanced Security" title="GitHub Advanced Security" /></picture>&nbsp;
   <picture><img src="/images/cert-sessionize-most-active-speaker-2024.svg" alt="Sessionize Most Active Speaker 2024" title="Sessionize Most Active Speaker 2024" /></picture>&nbsp;
