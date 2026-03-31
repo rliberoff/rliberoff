@@ -172,11 +172,11 @@ You can always find me here 👉🏻
 
 ### 📐 My GitHub Statistics
 
-[![My GitHub top languages - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=rliberoff&layout=compact&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=rliberoff&layout=compact&show_icons=true&theme=gotham#gh-dark-mode-only)
-[![My GitHub top languages - Light](https://github-readme-stats.vercel.app/api/top-langs/?username=rliberoff&layout=compact&show_icons=true&theme=vue#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=rliberoff&layout=compact&show_icons=true&theme=vue#gh-light-mode-only)
+[![My GitHub top languages - Dark](https://github-readme-stats.shion.dev/api/top-langs/?username=rliberoff&layout=compact&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=rliberoff&layout=compact&show_icons=true&theme=gotham#gh-dark-mode-only)
+[![My GitHub top languages - Light](https://github-readme-stats.shion.dev/api/top-langs/?username=rliberoff&layout=compact&show_icons=true&theme=vue#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs/?username=rliberoff&layout=compact&show_icons=true&theme=vue#gh-light-mode-only)
 <br>
-[![My GitHub stats 1 - Dark](https://github-readme-stats.vercel.app/api?username=rliberoff&rank_icon=github&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=rliberoff&rank_icon=github&show_icons=true&theme=gotham#gh-dark-mode-only)
-[![My GitHub stats 1 - Light](https://github-readme-stats.vercel.app/api?username=rliberoff&rank_icon=github&show_icons=true&theme=vue#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=rliberoff&rank_icon=github&show_icons=true&theme=vue#gh-light-mode-only)
+[![My GitHub stats 1 - Dark](https://github-readme-stats.shion.dev/api?username=rliberoff&rank_icon=github&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=rliberoff&rank_icon=github&show_icons=true&theme=gotham#gh-dark-mode-only)
+[![My GitHub stats 1 - Light](https://github-readme-stats.shion.dev/api?username=rliberoff&rank_icon=github&show_icons=true&theme=vue#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=rliberoff&rank_icon=github&show_icons=true&theme=vue#gh-light-mode-only)
 <br>
 
 [![My GitHub stats 2 - Dark](https://streak-stats.demolab.com/?user=rliberoff&theme=gotham#gh-dark-mode-only)](https://streak-stats.demolab.com/?user=rliberoff&theme=gotham#gh-dark-mode-only)
