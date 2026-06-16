@@ -169,6 +169,9 @@ You can always find me here 👉🏻
   <picture><img height="110" width="110" src="/images/mvp-microsoft-2024.png" alt="Microsoft MVP 2024 - Azure AI Services " title="Microsoft MVP 2024 - Azure AI Services" /></picture>&nbsp;
   <picture><img height="110" width="110" src="/images/mvp-microsoft-2025.png" alt="Microsoft MVP 2025 - Azure AI Foundry" title="Microsoft MVP 2025 - Azure AI Foundry" /></picture>&nbsp;
 </p>
+<p float="left">
+  <picture><img height="110" width="110" src="/images/2026-global-ai-organizer.png" alt="AgentCamp 2026 - Organizer" title="AgentCamp 2026 - Organizer" /></picture>&nbsp;
+</p>
 
 ### 📐 My GitHub Statistics
 
