@@ -1,4 +1,4 @@
-# 👋🏻🧢 ![](https://readme-typing-svg.demolab.com?font=VT323&size=70&duration=2800&pause=10000&color=719B79&multiline=true&random=false&width=920&height=85&lines=Hi+there!+I'm+Rodrigo+Liberoff)
+# 👋🏻🧢 [![GitHub rliberoff](https://img.shields.io/github/followers/rliberoff?label=follow&style=social)](https://github.com/rliberoff) ![](https://readme-typing-svg.demolab.com?font=VT323&size=70&duration=2800&pause=10000&color=719B79&multiline=true&random=false&width=920&height=85&lines=Hi+there!+I'm+Rodrigo+Liberoff)
 
 **I’m a Computer Engineer with 20+ years of experience in designing, developing, and delivering software systems and applications.**
 
@@ -25,7 +25,7 @@ You can always find me here 👉🏻
 [![Blog](https://img.shields.io/badge/Blog-C6CDC7?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTIgNEMyIDMuNDQ3NzIgMi40NDc3MiAzIDMgM0gyMUMyMS41NTIzIDMgMjIgMy40NDc3MiAyMiA0VjIwQzIyIDIwLjU1MjMgMjEuNTUyMyAyMSAyMSAyMUgzQzIuNDQ3NzIgMjEgMiAyMC41NTIzIDIgMjBWNFpNNCA1VjE5SDIwVjVINFpNNiA3SDEyVjEzSDZWN1pNOCA5VjExSDEwVjlIOFpNMTQgOUgxOFY3SDE0VjlaTTE4IDEzSDE0VjExSDE4VjEzWk02IDE1VjE3TDE4IDE3VjE1TDYgMTVaIj48L3BhdGg%2BPC9zdmc%2B)](https://www.codertectura.com)&nbsp;
 [![Github Gists](https://img.shields.io/badge/My_Gists-181717?style=for-the-badge&logo=github&logoColor=FFF)](https://gist.github.com/rliberoff)&nbsp;
 [![Github Repos](https://img.shields.io/badge/My_Repos-181717?style=for-the-badge&logo=github&logoColor=FFF)](https://github.com/rliberoff?tab=repositories)&nbsp;
-[![GitHub rliberoff](https://img.shields.io/github/followers/rliberoff?label=follow&style=social)](https://github.com/rliberoff)
+
 
 #### 🛠️ My Languages, Technologies & Tools
 
