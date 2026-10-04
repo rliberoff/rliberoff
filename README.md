@@ -164,9 +164,10 @@ You can always find me here 👉🏻
   <picture><img src="/images/cert-sessionize-most-active-speaker-2025.svg" alt="Sessionize Most Active Speaker 2025" title="Sessionize Most Active Speaker 2025" /></picture>&nbsp;
 </p>
 <p float="left">
-  <picture><img height="110" width="110" src="/images/mvp-microsoft-2024.png" alt="Microsoft MVP 2024 - Azure AI Services " title="Microsoft MVP 2024 - Azure AI Services" /></picture>&nbsp;
+  <picture><img height="110" width="110" src="/images/mvp-microsoft-2023.png" alt="Microsoft MVP 2023 - Azure Open AI" title="Microsoft MVP 2023 - Azure Open AI" /></picture>&nbsp;
+  <picture><img height="110" width="110" src="/images/mvp-microsoft-2024.png" alt="Microsoft MVP 2024 - Azure AI Services" title="Microsoft MVP 2024 - Azure AI Services" /></picture>&nbsp;
   <picture><img height="110" width="110" src="/images/mvp-microsoft-2025.png" alt="Microsoft MVP 2025 - Azure AI Foundry" title="Microsoft MVP 2025 - Azure AI Foundry" /></picture>&nbsp;
-  <picture><img height="110" width="110" src="/images/2026-2027-microsoft-most-valuable-professional-mvp.png" alt="Microsoft MVP 2025 - Azure AI Foundry" title="Microsoft MVP 2026 - Developer Tools" /></picture>&nbsp;
+  <picture><img height="110" width="110" src="/images/2026-2027-microsoft-most-valuable-professional-mvp.png" alt="Microsoft MVP 2026 - Developer Tools" title="Microsoft MVP 2026 - Developer Tools" /></picture>&nbsp;
 </p>
 <p float="left">
   <!-- <picture><img height="115" width="115" src="/images/2026-global-ai-organizer.png" alt="AgentCamp 2026 - Organizer" title="AgentCamp 2026 - Organizer" /></picture>&nbsp; -->
