@@ -136,17 +136,14 @@ You can always find me here 👉🏻
 
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codertectura.com/atom.xml"><img height="16" src="https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white" /></a>
 
-### 📺 Latest videos
+### 📺 Latest videos from my channel
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![customconectors final 2](https://ytcards.demolab.com/?id=M3aa-0a8sbk&title=customconectors+final+2&lang=en&timestamp=1790582411&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "customconectors final 2")](https://www.youtube.com/watch?v=M3aa-0a8sbk)
 [![🤯 Conecta APIs a Power Automate con Custom Connectors - Parte 1](https://ytcards.demolab.com/?id=lNohKDV6Gh4&title=%F0%9F%A4%AF+Conecta+APIs+a+Power+Automate+con+Custom+Connectors+-+Parte+1&lang=en&timestamp=1790059944&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "🤯 Conecta APIs a Power Automate con Custom Connectors - Parte 1")](https://www.youtube.com/watch?v=lNohKDV6Gh4)
 [![Foundry Content Understanding: el servicio que sustituye a Azure Document Intelligence 👀](https://ytcards.demolab.com/?id=lCVmFHVImRs&title=Foundry+Content+Understanding%3A+el+servicio+que+sustituye+a+Azure+Document+Intelligence+%F0%9F%91%80&lang=en&timestamp=1788076822&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "Foundry Content Understanding: el servicio que sustituye a Azure Document Intelligence 👀")](https://www.youtube.com/watch?v=lCVmFHVImRs)
 <!-- END YOUTUBE-CARDS -->
-
 &nbsp;&nbsp;&nbsp;&nbsp;<sub>➡️ <a href="https://www.youtube.com/@CODERTECTURA/videos" target="_blank">Watch more videos...</a></sub>
-
-#
 
 ### 🏅Awards & Certifications
 <p float="left">
@@ -164,7 +161,6 @@ You can always find me here 👉🏻
   <picture><img src="/images/cert-sessionize-most-active-speaker-2025.svg" alt="Sessionize Most Active Speaker 2025" title="Sessionize Most Active Speaker 2025" /></picture>&nbsp;
 </p>
 <p float="left">
-  <picture><img height="110" width="110" src="/images/mvp-microsoft-2023.png" alt="Microsoft MVP 2023 - Azure Open AI" title="Microsoft MVP 2023 - Azure Open AI" /></picture>&nbsp;
   <picture><img height="110" width="110" src="/images/mvp-microsoft-2024.png" alt="Microsoft MVP 2024 - Azure AI Services" title="Microsoft MVP 2024 - Azure AI Services" /></picture>&nbsp;
   <picture><img height="110" width="110" src="/images/mvp-microsoft-2025.png" alt="Microsoft MVP 2025 - Azure AI Foundry" title="Microsoft MVP 2025 - Azure AI Foundry" /></picture>&nbsp;
   <picture><img height="110" width="110" src="/images/2026-2027-microsoft-most-valuable-professional-mvp.png" alt="Microsoft MVP 2026 - Developer Tools" title="Microsoft MVP 2026 - Developer Tools" /></picture>&nbsp;
