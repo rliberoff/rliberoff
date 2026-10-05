@@ -7,8 +7,8 @@ I’m passionate about creating the best software architectures and researching 
 I’m always open to new challenges and opportunities, so feel free to contact me if you want to collaborate or just talk.
 
 🔭 I’m currently working at [ENCAMINA](https://www.encamina.com) as the «**Principal Senior Architect AI Platform Engineering & GenAI Tech Lead**».
-<br>
-Also I'm an «**Azure AI Foundry Microsoft MVP**».
+
+I'm proud and honored to be a **Microsoft Developer Tools MVP** since 2026, following my earlier recognition as a **Microsoft Foundry MVP**.
 
 💬 Ask me anythiong about C#, .NET, Generative AI, Azure and AI Foundry or APIs 💡
 
