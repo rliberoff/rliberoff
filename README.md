@@ -138,9 +138,7 @@ You can always find me here 👉🏻
 ### 📺 Latest videos from my channel
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![customconectors final 2](https://ytcards.demolab.com/?id=M3aa-0a8sbk&title=customconectors+final+2&lang=en&timestamp=1790582411&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "customconectors final 2")](https://www.youtube.com/watch?v=M3aa-0a8sbk)
-[![🤯 Conecta APIs a Power Automate con Custom Connectors - Parte 1](https://ytcards.demolab.com/?id=lNohKDV6Gh4&title=%F0%9F%A4%AF+Conecta+APIs+a+Power+Automate+con+Custom+Connectors+-+Parte+1&lang=en&timestamp=1790059944&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "🤯 Conecta APIs a Power Automate con Custom Connectors - Parte 1")](https://www.youtube.com/watch?v=lNohKDV6Gh4)
-[![Foundry Content Understanding: el servicio que sustituye a Azure Document Intelligence 👀](https://ytcards.demolab.com/?id=lCVmFHVImRs&title=Foundry+Content+Understanding%3A+el+servicio+que+sustituye+a+Azure+Document+Intelligence+%F0%9F%91%80&lang=en&timestamp=1788076822&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "Foundry Content Understanding: el servicio que sustituye a Azure Document Intelligence 👀")](https://www.youtube.com/watch?v=lCVmFHVImRs)
+
 <!-- END YOUTUBE-CARDS -->
 &nbsp;&nbsp;&nbsp;&nbsp;<sub>➡️ <a href="https://www.youtube.com/@CODERTECTURA/videos" target="_blank">Watch more videos...</a></sub>
 
