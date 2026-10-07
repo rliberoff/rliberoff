@@ -126,9 +126,9 @@ You can always find me here 👉🏻
 ### ✍🏻 Latest blog posts
 
 <!-- BLOGPOSTS:START -->
+- [Copilot Code Review ya se limpia solo: auto-resolución y análisis más inteligente en tus PR](https://codertectura.com/posts/copilot-code-review-ya-se-limpia-solo-auto-resolucion-y-analisis-mas-listo-en-tu/)
 - [Azure Communication Services se retira: cómo evaluar el impacto y planificar la migración sin improvisar](https://codertectura.com/posts/azure-communication-services-se-retira-como-evaluar-el-impacto-y-planificar-la-m/)
 - [Guided Copilot en VS Code: así cambia de verdad la forma de crear apps en Azure](https://codertectura.com/posts/guided-copilot-en-vs-code-asi-cambia-de-verdad-la-forma-de-crear-apps-en-azure/)
-- [Azure Landing Zones preparadas para FinOps: cuando la gobernanza se convierte en control de costes](https://codertectura.com/posts/azure-landing-zones-preparadas-para-finops-cuando-la-gobernanza-se-convierte-en/)
 <!-- BLOGPOSTS:END -->
 
 &nbsp;&nbsp;&nbsp;&nbsp;<sub>➡️ <a href="https://www.codertectura.com" target="_blank">Read more blog posts...</a></sub>
